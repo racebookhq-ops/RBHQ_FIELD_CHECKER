@@ -1,0 +1,16 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.cache/
+logs/
+output/*.json
+output/*.csv
+.pytest_cache/
+.DS_Store
+*.egg-info/
+
+.env
+
+# harness scraper output (fields + raw API JSON)
+data/

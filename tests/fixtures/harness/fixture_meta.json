@@ -1,0 +1,21 @@
+{
+  "captured_at": "2026-10-06T12:03:45",
+  "date": "2026-10-06",
+  "meeting_code": "AP061026",
+  "race_id": "APC06102601",
+  "race_no": 4,
+  "race_url": "https://www.harness.org.au/racing/2026-10-06/albion-park/AP061026/meeting/APC06102601/4/fields",
+  "index_meetings": [
+    "PC061026",
+    "AP061026",
+    "SP061026",
+    "ML061026",
+    "CB061026",
+    "GP061026"
+  ],
+  "have": {
+    "index_api": true,
+    "meeting_api": true,
+    "race_api": true
+  }
+}

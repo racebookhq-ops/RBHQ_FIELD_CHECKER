@@ -1,0 +1,24 @@
+# Venue names that differ between the two sources.
+#
+#   <canonical>:        # the thedogs.com.au track slug
+#     - <spelling seen elsewhere>
+#
+# Most tracks need no entry: "ANGLE PARK" and "Angle Park" both slugify to
+# angle-park and pair automatically, and the RBHQ feed's own
+# AlternateVenueNames are tried before this file is consulted. Only add a
+# venue here when the report's `unmatched` block says it could not be paired.
+
+ladbrokes-q1-lakeside:
+  - Q1 LAKESIDE
+  - Q1 Lakeside
+  - Ladbrokes Q1 Lakeside
+  - Q Lakeside
+  - Lakeside
+
+the-gardens:
+  - THE GARDENS
+  - Gardens
+
+murray-bridge:
+  - MURRAY BRIDGE
+  - Murray Bridge Straight

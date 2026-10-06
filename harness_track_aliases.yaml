@@ -1,0 +1,11 @@
+# Harness venue names that differ between harness.org.au and the RBHQ feed.
+#
+#   <canonical>:        # slug of the harness.org.au track name
+#     - <spelling seen in the RBHQ feed>
+#
+# Most tracks need no entry: harness.org.au's "Menangle" and the feed's
+# "MENANGLE" both slugify to menangle and pair automatically. Add a venue here
+# only when the report's `unmatched` block says it could not be paired, e.g.
+#
+#   gloucester-park:
+#     - GLOUCESTER PK

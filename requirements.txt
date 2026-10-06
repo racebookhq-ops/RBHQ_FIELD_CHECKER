@@ -1,0 +1,14 @@
+# Core scraping stack
+scrapling[fetchers]>=0.4.10
+
+# Config file support
+PyYAML>=6.0
+
+# IANA time zone data (Windows ships no system tzdb)
+tzdata>=2024.1
+
+# Reads the API key out of a gitignored .env
+python-dotenv>=1.0
+
+# Dev / testing
+pytest>=8.0

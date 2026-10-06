@@ -1,0 +1,172 @@
+{
+  "meetings": [
+    {
+      "meetingId": 1514454,
+      "meetingDate": "2026-09-22T00:00:00.000Z",
+      "venue": "ANGLE PARK",
+      "type": "G",
+      "region": "C",
+      "country": "AU",
+      "state": "SA",
+      "rail": null,
+      "events": [
+        {
+          "Runners": [
+            {"runnerNumber": 1, "name": "Whiplash Emmett", "scratched": false, "scratchingTimestamp": null, "scratchType": 0, "jockey": "", "trainer": "Kym Burnett", "barrier": 1, "emergency": false, "finishPosition": 2, "silks": null, "prices": {}},
+            {"runnerNumber": 2, "name": "Emerley I'm Not", "scratched": false, "scratchingTimestamp": null, "scratchType": 0, "jockey": "", "trainer": "Neil Rawlings", "barrier": 2, "emergency": false, "finishPosition": 3, "silks": null, "prices": {}},
+            {"runnerNumber": 3, "name": "....", "scratched": true, "scratchingTimestamp": "2026-09-21T07:39:59.993Z", "scratchType": 1, "jockey": null, "trainer": null, "barrier": 3, "emergency": false, "finishPosition": null, "silks": null, "prices": {}},
+            {"runnerNumber": 4, "name": "Alia Rose", "scratched": false, "scratchingTimestamp": null, "scratchType": 0, "jockey": "", "trainer": "Kym Burnett", "barrier": 4, "emergency": false, "finishPosition": null, "silks": null, "prices": {}},
+            {"runnerNumber": 5, "name": "Emerley Isn't Me", "scratched": false, "scratchingTimestamp": null, "scratchType": 0, "jockey": "", "trainer": "Neil Rawlings", "barrier": 5, "emergency": false, "finishPosition": 1, "silks": null, "prices": {}},
+            {"runnerNumber": 6, "name": "....", "scratched": true, "scratchingTimestamp": "2026-09-21T07:40:00.993Z", "scratchType": 1, "jockey": null, "trainer": null, "barrier": 6, "emergency": false, "finishPosition": null, "silks": null, "prices": {}},
+            {"runnerNumber": 7, "name": "Sandy Knuckles", "scratched": false, "scratchingTimestamp": null, "scratchType": 0, "jockey": "", "trainer": "Brenton Prouse", "barrier": 7, "emergency": false, "finishPosition": 4, "silks": null, "prices": {}},
+            {"runnerNumber": 8, "name": "Get Them Jimmy", "scratched": true, "scratchingTimestamp": "2026-09-21T09:47:01.570Z", "scratchType": 1, "jockey": "", "trainer": "Tamica Dunn", "barrier": 8, "emergency": false, "finishPosition": null, "silks": null, "prices": {}},
+            {"runnerNumber": 9, "name": "Adhana Tori", "scratched": true, "scratchingTimestamp": "2026-09-22T07:27:24.380Z", "scratchType": 1, "jockey": "", "trainer": "Cameron Forshaw", "barrier": 0, "emergency": false, "finishPosition": null, "silks": null, "prices": {}},
+            {"runnerNumber": 10, "name": "Adhana Remi", "scratched": true, "scratchingTimestamp": "2026-09-22T07:27:25.380Z", "scratchType": 1, "jockey": "", "trainer": "Cameron Forshaw", "barrier": 0, "emergency": false, "finishPosition": null, "silks": null, "prices": {}}
+          ],
+          "AlternateVenueNames": ["Angle Park Night"],
+          "meetingId": 1514454,
+          "eventNumber": 1,
+          "eventId": "1514454-1",
+          "meetingDate": "2026-09-22T00:00:00.000Z",
+          "startTime": "2026-09-22T01:10:00.000Z",
+          "class": "Maiden",
+          "closeTime": "2026-09-22T01:11:13.777Z",
+          "numberOfEvents": 14,
+          "type": "G",
+          "country": "AU",
+          "venue": "ANGLE PARK",
+          "region": "C",
+          "targetPercentage": 0.0,
+          "status": "DONE",
+          "state": "SA",
+          "distance": 342.0,
+          "eventName": "14 Races @ Angle Park Today Maiden Final",
+          "weather": null,
+          "betTypes": ["Win", "Place"]
+        },
+        {
+          "Runners": [
+            {"runnerNumber": 1, "name": "He's A Monty", "scratched": false, "scratchingTimestamp": null, "scratchType": 0, "jockey": "", "trainer": "Narvette Treloar", "barrier": 1, "emergency": false, "finishPosition": 1, "silks": null, "prices": {}},
+            {"runnerNumber": 2, "name": "Regal Reba", "scratched": false, "scratchingTimestamp": null, "scratchType": 0, "jockey": "", "trainer": "Alan Randall", "barrier": 2, "emergency": false, "finishPosition": 2, "silks": null, "prices": {}},
+            {"runnerNumber": 3, "name": "....", "scratched": true, "scratchingTimestamp": "2026-09-21T07:39:58.153Z", "scratchType": 1, "jockey": null, "trainer": null, "barrier": 3, "emergency": false, "finishPosition": null, "silks": null, "prices": {}},
+            {"runnerNumber": 4, "name": "Turbo Avery", "scratched": false, "scratchingTimestamp": null, "scratchType": 0, "jockey": "", "trainer": "Tamica Dunn", "barrier": 4, "emergency": false, "finishPosition": null, "silks": null, "prices": {}},
+            {"runnerNumber": 5, "name": "Brooklyn", "scratched": true, "scratchingTimestamp": "2026-09-19T15:35:12.640Z", "scratchType": 1, "jockey": "", "trainer": "Kevin Bewley", "barrier": 5, "emergency": false, "finishPosition": null, "silks": null, "prices": {}},
+            {"runnerNumber": 6, "name": "....", "scratched": true, "scratchingTimestamp": "2026-09-21T07:39:59.153Z", "scratchType": 1, "jockey": null, "trainer": null, "barrier": 6, "emergency": false, "finishPosition": null, "silks": null, "prices": {}},
+            {"runnerNumber": 7, "name": "Ratbag Ruby", "scratched": false, "scratchingTimestamp": null, "scratchType": 0, "jockey": "", "trainer": "Alan Randall", "barrier": 7, "emergency": false, "finishPosition": 3, "silks": null, "prices": {}},
+            {"runnerNumber": 8, "name": "Just Like Fred", "scratched": false, "scratchingTimestamp": null, "scratchType": 0, "jockey": "", "trainer": "Steven Coates", "barrier": 8, "emergency": false, "finishPosition": 4, "silks": null, "prices": {}},
+            {"runnerNumber": 9, "name": "Just On Fire", "scratched": false, "scratchingTimestamp": null, "scratchType": 0, "jockey": "", "trainer": "Paul Fagan", "barrier": 5, "emergency": false, "finishPosition": null, "silks": null, "prices": {}},
+            {"runnerNumber": 10, "name": "Life Of Riley", "scratched": true, "scratchingTimestamp": "2026-09-22T07:27:26.017Z", "scratchType": 1, "jockey": "", "trainer": "Paul Fagan", "barrier": 0, "emergency": false, "finishPosition": null, "silks": null, "prices": {}}
+          ],
+          "AlternateVenueNames": ["Angle Park Night"],
+          "meetingId": 1514454,
+          "eventNumber": 3,
+          "eventId": "1514454-3",
+          "meetingDate": "2026-09-22T00:00:00.000Z",
+          "startTime": "2026-09-22T01:45:00.000Z",
+          "class": "TG1-4W",
+          "closeTime": "2026-09-22T01:46:06.020Z",
+          "numberOfEvents": 14,
+          "type": "G",
+          "country": "AU",
+          "venue": "ANGLE PARK",
+          "region": "C",
+          "targetPercentage": 0.0,
+          "status": "DONE",
+          "state": "SA",
+          "distance": 342.0,
+          "eventName": "Sky Racing 1-4W Series 2 Final",
+          "weather": null,
+          "betTypes": ["Win", "Place"]
+        }
+      ]
+    },
+    {
+      "meetingId": 1514455,
+      "meetingDate": "2026-09-22T00:00:00.000Z",
+      "venue": "MANDURAH",
+      "type": "G",
+      "region": "C",
+      "country": "AU",
+      "state": "WA",
+      "rail": null,
+      "events": [
+        {
+          "Runners": [
+            {"runnerNumber": 1, "name": "Misbelief", "scratched": false, "scratchingTimestamp": null, "scratchType": 0, "jockey": "", "trainer": "Gary Nelson", "barrier": 1, "emergency": false, "finishPosition": null, "silks": null, "prices": {}},
+            {"runnerNumber": 2, "name": "Flash Of Fun", "scratched": false, "scratchingTimestamp": null, "scratchType": 0, "jockey": "", "trainer": "Lexia Isaac", "barrier": 2, "emergency": false, "finishPosition": null, "silks": null, "prices": {}},
+            {"runnerNumber": 3, "name": "Orana Jasper", "scratched": false, "scratchingTimestamp": null, "scratchType": 0, "jockey": "", "trainer": "Pete Brown", "barrier": 3, "emergency": false, "finishPosition": null, "silks": null, "prices": {}},
+            {"runnerNumber": 4, "name": "Turn Back Prime", "scratched": false, "scratchingTimestamp": null, "scratchType": 0, "jockey": "", "trainer": "Glen Price", "barrier": 4, "emergency": false, "finishPosition": null, "silks": null, "prices": {}},
+            {"runnerNumber": 5, "name": "....", "scratched": true, "scratchingTimestamp": "2026-09-21T07:41:50.423Z", "scratchType": 1, "jockey": null, "trainer": null, "barrier": 5, "emergency": false, "finishPosition": null, "silks": null, "prices": {}},
+            {"runnerNumber": 6, "name": "Fly With Ember's", "scratched": false, "scratchingTimestamp": null, "scratchType": 0, "jockey": "", "trainer": "Ben Maclean", "barrier": 6, "emergency": false, "finishPosition": null, "silks": null, "prices": {}},
+            {"runnerNumber": 7, "name": "Miss Alinta", "scratched": false, "scratchingTimestamp": null, "scratchType": 0, "jockey": "", "trainer": "Ben Maclean", "barrier": 7, "emergency": false, "finishPosition": null, "silks": null, "prices": {}},
+            {"runnerNumber": 8, "name": "Mr. Smokey", "scratched": false, "scratchingTimestamp": null, "scratchType": 0, "jockey": "", "trainer": "Kylie Mclennan", "barrier": 8, "emergency": false, "finishPosition": null, "silks": null, "prices": {}}
+          ],
+          "AlternateVenueNames": ["Mandurah"],
+          "meetingId": 1514455,
+          "eventNumber": 1,
+          "eventId": "1514455-1",
+          "meetingDate": "2026-09-22T00:00:00.000Z",
+          "startTime": "2026-09-22T10:06:00.000Z",
+          "class": "Maiden Y",
+          "closeTime": null,
+          "numberOfEvents": 9,
+          "type": "G",
+          "country": "AU",
+          "venue": "MANDURAH",
+          "region": "C",
+          "targetPercentage": 0.0,
+          "status": "OPEN",
+          "state": "WA",
+          "distance": 300.0,
+          "eventName": "Free Entry Tabtouch Park",
+          "weather": null,
+          "betTypes": ["Win", "Place"]
+        }
+      ]
+    },
+    {
+      "meetingId": 1514603,
+      "meetingDate": "2026-09-21T00:00:00.000Z",
+      "venue": "MONMORE",
+      "type": "G",
+      "region": "I",
+      "country": "GB",
+      "state": "",
+      "rail": null,
+      "events": [
+        {
+          "Runners": [
+            {"runnerNumber": 1, "name": "Shes Back", "scratched": false, "scratchingTimestamp": null, "scratchType": 0, "jockey": "", "trainer": "K Billingham-Hine", "barrier": 1, "emergency": false, "finishPosition": 1, "silks": null, "prices": {}},
+            {"runnerNumber": 2, "name": "Fourpenny Jack", "scratched": false, "scratchingTimestamp": null, "scratchType": 0, "jockey": "", "trainer": "D J Page", "barrier": 2, "emergency": false, "finishPosition": 5, "silks": null, "prices": {}},
+            {"runnerNumber": 3, "name": "Derrymoyle Blue", "scratched": false, "scratchingTimestamp": null, "scratchType": 0, "jockey": "", "trainer": "C D Marston", "barrier": 3, "emergency": false, "finishPosition": 6, "silks": null, "prices": {}},
+            {"runnerNumber": 4, "name": "Kilwest Barney", "scratched": false, "scratchingTimestamp": null, "scratchType": 0, "jockey": "", "trainer": "P I Cowdrill", "barrier": 4, "emergency": false, "finishPosition": 4, "silks": null, "prices": {}},
+            {"runnerNumber": 5, "name": "Kinaffe Star", "scratched": false, "scratchingTimestamp": null, "scratchType": 0, "jockey": "", "trainer": "P A Curtin", "barrier": 5, "emergency": false, "finishPosition": 3, "silks": null, "prices": {}},
+            {"runnerNumber": 6, "name": "Small Hours", "scratched": false, "scratchingTimestamp": null, "scratchType": 0, "jockey": "", "trainer": "J B Thompson", "barrier": 6, "emergency": false, "finishPosition": 2, "silks": null, "prices": {}}
+          ],
+          "AlternateVenueNames": ["MONMORE BAGS ", " MONMORE ", " Monmore, UK "],
+          "meetingId": 1514603,
+          "eventNumber": 3,
+          "eventId": "1514603-3",
+          "meetingDate": "2026-09-21T00:00:00.000Z",
+          "startTime": "2026-09-21T14:01:00.000Z",
+          "class": "A9",
+          "closeTime": "2026-09-21T14:01:32.697Z",
+          "numberOfEvents": 12,
+          "type": "G",
+          "country": "GB",
+          "venue": "MONMORE",
+          "region": "I",
+          "targetPercentage": 0.0,
+          "status": "DONE",
+          "state": "",
+          "distance": 480.0,
+          "eventName": "Monmore R3",
+          "weather": "Overcast Clouds",
+          "betTypes": ["Win", "Place"]
+        }
+      ]
+    }
+  ],
+  "successful": true,
+  "message": null
+}

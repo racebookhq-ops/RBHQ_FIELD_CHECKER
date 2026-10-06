@@ -1,0 +1,5476 @@
+{
+  "meta": {
+    "status": 200,
+    "code": "OK"
+  },
+  "rise_meeting_code": "AP061026",
+  "date": "2026-10-06",
+  "weather": null,
+  "track_condition": null,
+  "is_trial": false,
+  "day_night_twilight": "D",
+  "is_tab": true,
+  "ras_iform_url": null,
+  "form_rtf": {
+    "filename": "AP061026.rtf",
+    "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN2tvYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5c8c06bf88b37a9c34274ee800c1de181a05713c/AP061026.rtf"
+  },
+  "meeting_status": "fields_drawn",
+  "track": {
+    "slug": "/albion-park",
+    "desktop_display_name": "Albion Park",
+    "mobile_display_name": "Albion Park",
+    "state": "qld",
+    "circumference": 1019.0,
+    "home_straight_length": 197.0,
+    "max_front_row_mobile": 7,
+    "max_row_standing": 8,
+    "track_map_image": {
+      "asset_type": "blob",
+      "content_type": "image",
+      "title": "Albion Park track map",
+      "description": null,
+      "placeholder_image_url": "https://api.harness.org.au/onspace/media/assets/preview/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ild6TXpOak01TERCZCIsImV4cCI6bnVsbCwicHVyIjoib25zcGFjZV9tZWRpYV9hc3NldF9pZCJ9fQ--9b9df6474e59638bbb03ee7306217f7563bc867ad58623e9cb5e0297aea1400c/albion-park-track-map.webp",
+      "viewer_type": "image",
+      "viewer_sources": [
+        {
+          "url": "https://api.harness.org.au/onspace/media/assets/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ild6TXpOak01TERCZCIsImV4cCI6bnVsbCwicHVyIjoib25zcGFjZV9tZWRpYV9hc3NldF9pZCJ9fQ--9b9df6474e59638bbb03ee7306217f7563bc867ad58623e9cb5e0297aea1400c/albion-park-track-map.webp",
+          "content_type": "image/webp"
+        }
+      ]
+    },
+    "sprint_lane": true
+  },
+  "races": [
+    {
+      "rise_race_code": "APC06102613",
+      "race_number": 1,
+      "name": "Pryde's Easifeed Energy Pak Trotters Up to Nr55 Mobile",
+      "short_name": "Prydes Easifeed Trot MS",
+      "distance": 2138,
+      "start_type": "MS",
+      "bet_types": "FIRST 4, 1ST LEG EARLY QUADRELLA",
+      "scheduled_start_time": "2026-10-06T13:45:00+11:00",
+      "race_class": "NR up to 55. RBD. Trotters",
+      "race_notes": "NDC. NMC. Also eligible horses with no more than 4 wins (excluding 2YO wins).\r\nA 1% deduction for Equine Welfare will be applied to all prizemoney prior to distribution.",
+      "replay_video": null,
+      "finish_photo": null,
+      "has_stewards_replay": false,
+      "stewards_replay_videos": [],
+      "track_condition": null,
+      "tips": "",
+      "race_status": "fields_drawn",
+      "result_places": null,
+      "has_replay": false,
+      "total_prize_money": 9120,
+      "gross_time": null,
+      "mile_rate": null,
+      "lead_time": null,
+      "quarters": null,
+      "cumulative_mile": null,
+      "margins": null,
+      "track_record": {
+        "rise_meeting_code": "AP160526",
+        "rise_race_code": "APM16052611",
+        "horse_name": "Aldebaranstilinski",
+        "horse_slug": "/aldebaranstilinski",
+        "race_number": 4,
+        "race_date": "2026-05-16",
+        "meeting_day_night_twilight": "N",
+        "time_mile_rate": "1:54.9",
+        "start_type": "MS",
+        "distance": 2138
+      },
+      "prizemoney_distribution": {
+        "2": "1566.0",
+        "1": "5481.0",
+        "3": "783.0",
+        "4": "522.0",
+        "5": "348.0",
+        "6": "60.0",
+        "7": "60.0",
+        "8": "60.0",
+        "9": "60.0",
+        "10": "60.0",
+        "11": "60.0",
+        "12": "60.0"
+      },
+      "runners": [
+        {
+          "barrier": "Fr1",
+          "saddlecloth_number": 1,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr1",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "2.60",
+          "forecast_odds": "3.20",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "BLACK, RED MALTESE CROSS, WHITE SLEEVES",
+            "silk_image": {
+              "filename": "496.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNXNTYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--9d233a4d8e57a12441f95dd58174b0d46969e5e6/496.png"
+            }
+          },
+          "horse": {
+            "id": 435749,
+            "name": "Second To Nun",
+            "slug": "/second-to-nun"
+          },
+          "trainer": {
+            "display_name": "Stephen Cini",
+            "mobile_display_name": "S J Cini",
+            "slug": "/stephen-cini"
+          },
+          "driver": {
+            "display_name": "Pete McMullen",
+            "mobile_display_name": "P J McMullen",
+            "slug": "/pete-mcmullen"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "37418",
+            "horse_class": "NR60"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP290926",
+            "rise_race_code": "APC29092614",
+            "place": "8",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 3,
+            "meeting_date": "2026-09-29",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Fr2",
+          "saddlecloth_number": 2,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr2",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "3.50",
+          "forecast_odds": "6.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "NAVY BLUE, WHITE V, RED SLEEVES, GOLD STARS",
+            "silk_image": {
+              "filename": "260.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNTRTYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--9405c078531a4030dc6b9be6bd9dbb7887dc35ff/260.png"
+            }
+          },
+          "horse": {
+            "id": 440197,
+            "name": "Kicking Horse",
+            "slug": "/kicking-horse"
+          },
+          "trainer": {
+            "display_name": "Grant Dixon",
+            "mobile_display_name": "G W Dixon",
+            "slug": "/grant-dixon"
+          },
+          "driver": {
+            "display_name": "Grant Dixon",
+            "mobile_display_name": "G W Dixon",
+            "slug": "/grant-dixon"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "56626",
+            "horse_class": "NR59"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP220926",
+            "rise_race_code": "APC22092613",
+            "place": "6",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 4,
+            "meeting_date": "2026-09-22",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Fr3",
+          "saddlecloth_number": 3,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr3",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "41.00",
+          "forecast_odds": "31.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "BLACK, GOLD STARS, BLACK SLEEVES, GOLD CHEVRONS",
+            "silk_image": {
+              "filename": "594.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMVVYYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ae983768c303593d4ebdb20bb2bd98da7e52aab5/594.png"
+            }
+          },
+          "horse": {
+            "id": 736,
+            "name": "Natty Pagger NZ",
+            "slug": "/natty-pagger-nz"
+          },
+          "trainer": {
+            "display_name": "Trent Moffat",
+            "mobile_display_name": "T R Moffat",
+            "slug": "/trent-moffat"
+          },
+          "driver": {
+            "display_name": "Mathew Neilson",
+            "mobile_display_name": "M P Neilson",
+            "slug": "/mathew-neilson"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "32754",
+            "horse_class": "NR50"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP290926",
+            "rise_race_code": "APC29092614",
+            "place": "4",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 3,
+            "meeting_date": "2026-09-29",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Fr4",
+          "saddlecloth_number": 4,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": "(C)",
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr4",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "9.00",
+          "forecast_odds": "12.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "RED, WHITE STARS, BLACK SLEEVES",
+            "silk_image": {
+              "filename": "253.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMDRYYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--06ccbad995bff4751c51a352c05db1709d4f7177/253.png"
+            }
+          },
+          "horse": {
+            "id": 750,
+            "name": "Aladdin Sane NZ",
+            "slug": "/aladdin-sane-nz"
+          },
+          "trainer": {
+            "display_name": "Trent Moffat",
+            "mobile_display_name": "T R Moffat",
+            "slug": "/trent-moffat"
+          },
+          "driver": {
+            "display_name": "Jack Chapple",
+            "mobile_display_name": "J J Chapple",
+            "slug": "/jack-chapple"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "53552",
+            "horse_class": "NR52 B5"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP290926",
+            "rise_race_code": "APC29092614",
+            "place": "2",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 3,
+            "meeting_date": "2026-09-29",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Fr5",
+          "saddlecloth_number": 5,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr5",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "41.00",
+          "forecast_odds": "31.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "BLACK, GOLD QUARTERS",
+            "silk_image": {
+              "filename": "493.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNUVTYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7a2df6435e4dfbafcc7be78ba03d108aa7a2ac91/493.png"
+            }
+          },
+          "horse": {
+            "id": 434993,
+            "name": "Gaz Man NZ",
+            "slug": "/gaz-man-nz-434993"
+          },
+          "trainer": {
+            "display_name": "Richard Hutchinson",
+            "mobile_display_name": "R P Hutchinson",
+            "slug": "/richard-hutchinson"
+          },
+          "driver": {
+            "display_name": "Adam Richardson",
+            "mobile_display_name": "A P Richardson",
+            "slug": "/adam-richardson"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "44949",
+            "horse_class": "NR48 B5"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP290926",
+            "rise_race_code": "APC29092614",
+            "place": "9",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 3,
+            "meeting_date": "2026-09-29",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Fr6",
+          "saddlecloth_number": 6,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr6",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "126.00",
+          "forecast_odds": "61.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "YELLOW, BLUE SLEEVES",
+            "silk_image": {
+              "filename": "2742.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNDBBWmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c1802f5179890e359ae38c2f59d442afd3a93ca5/2742.png"
+            }
+          },
+          "horse": {
+            "id": 11401,
+            "name": "Tunbridge",
+            "slug": "/tunbridge"
+          },
+          "trainer": {
+            "display_name": "Matt Crone",
+            "mobile_display_name": "M J Crone",
+            "slug": "/matt-crone"
+          },
+          "driver": {
+            "display_name": "Gavin Crone",
+            "mobile_display_name": "G J Crone",
+            "slug": "/gavin-crone"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "48770",
+            "horse_class": "NR49"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP290926",
+            "rise_race_code": "APC29092614",
+            "place": "11",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 3,
+            "meeting_date": "2026-09-29",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Fr7",
+          "saddlecloth_number": 7,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr7",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "8.00",
+          "forecast_odds": "11.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "RED, BLUE BRACES & YOKE WITH WHITE STARS, BLUE SLEEVES, WHITE STARS",
+            "silk_image": {
+              "filename": "451.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM0FYYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a8b01e15065c553a7d864d1466376220ed063d92/451.png"
+            }
+          },
+          "horse": {
+            "id": 435865,
+            "name": "Laydownluna",
+            "slug": "/laydownluna"
+          },
+          "trainer": {
+            "display_name": "Matt Crone",
+            "mobile_display_name": "M J Crone",
+            "slug": "/matt-crone"
+          },
+          "driver": {
+            "display_name": "Angus Garrard",
+            "mobile_display_name": "A R Garrard",
+            "slug": "/angus-garrard"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "42123",
+            "horse_class": "NR69"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP290926",
+            "rise_race_code": "APC29092614",
+            "place": "3",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 3,
+            "meeting_date": "2026-09-29",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Sr1",
+          "saddlecloth_number": 8,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Sr1",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "2.85",
+          "forecast_odds": "2.80",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": true,
+          "silk": {
+            "description": "RED, BLACK HORSE & WHITE CROWN LOGO, WHITE KINGSLODGE SLEEVES",
+            "silk_image": {
+              "filename": "72.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNGUxYVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2483d3f8222b4d2e2a7567be84cc6eabb1aa3f70/72.png"
+            }
+          },
+          "horse": {
+            "id": 438387,
+            "name": "Serena Love",
+            "slug": "/serena-love"
+          },
+          "trainer": {
+            "display_name": "Graham Dwyer",
+            "mobile_display_name": "G F Dwyer",
+            "slug": "/graham-dwyer"
+          },
+          "driver": {
+            "display_name": "Nathan Dawson",
+            "mobile_display_name": "N M Dawson",
+            "slug": "/nathan-dawson"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "75331",
+            "horse_class": "NR56"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP290926",
+            "rise_race_code": "APC29092614",
+            "place": "1",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 3,
+            "meeting_date": "2026-09-29",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Sr2",
+          "saddlecloth_number": 9,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Sr2",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "34.00",
+          "forecast_odds": "12.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": true,
+          "silk": {
+            "description": "BLUE, ORANGE STARS",
+            "silk_image": {
+              "filename": "615.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMFlTYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--346683701dcbbf804678a142987eaaf1ace41776/615.png"
+            }
+          },
+          "horse": {
+            "id": 2606,
+            "name": "Getoverrover",
+            "slug": "/getoverrover"
+          },
+          "trainer": {
+            "display_name": "Tim Gillespie",
+            "mobile_display_name": "T D Gillespie",
+            "slug": "/tim-gillespie"
+          },
+          "driver": {
+            "display_name": "Tim Gillespie",
+            "mobile_display_name": "T D Gillespie",
+            "slug": "/tim-gillespie"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "81695",
+            "horse_class": "NR54"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP290926",
+            "rise_race_code": "APC29092614",
+            "place": "5",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 3,
+            "meeting_date": "2026-09-29",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Sr3",
+          "saddlecloth_number": 10,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Sr3",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "126.00",
+          "forecast_odds": "31.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": true,
+          "silk": {
+            "description": "YELLOW, RED CHECKED BAND",
+            "silk_image": {
+              "filename": "1482.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeFVUYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--87864b1dbeec6d197620d7c9ab26235b420dc3f2/1482.png"
+            }
+          },
+          "horse": {
+            "id": 2817,
+            "name": "Gait With Grace",
+            "slug": "/gait-with-grace"
+          },
+          "trainer": {
+            "display_name": "Melissa Gillies",
+            "mobile_display_name": "M R Gillies",
+            "slug": "/melissa-gillies"
+          },
+          "driver": {
+            "display_name": "Taleah McMullen",
+            "mobile_display_name": "T J McMullen",
+            "slug": "/taleah-mcmullen"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "84580",
+            "horse_class": "NR46"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP220926",
+            "rise_race_code": "APC22092613",
+            "place": "10",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 4,
+            "meeting_date": "2026-09-22",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Sr4",
+          "saddlecloth_number": 11,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Sr4",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "126.00",
+          "forecast_odds": "21.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": true,
+          "silk": {
+            "description": "DARK BLUE, YELLOW STARS & STRIPED SLEEVES",
+            "silk_image": {
+              "filename": "2904.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN0VTYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c89ad75a0cf59be0e20e51e3491a4f3e7435d548/2904.png"
+            }
+          },
+          "horse": {
+            "id": 5000,
+            "name": "My High Peak",
+            "slug": "/my-high-peak"
+          },
+          "trainer": {
+            "display_name": "Bryse McElhinney",
+            "mobile_display_name": "B D McElhinney",
+            "slug": "/bryse-mcelhinney"
+          },
+          "driver": {
+            "display_name": "Bryse McElhinney",
+            "mobile_display_name": "B D McElhinney",
+            "slug": "/bryse-mcelhinney"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "0s907",
+            "horse_class": "NR44"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "PC250826",
+            "rise_race_code": "PCC25082607",
+            "place": "7",
+            "desktop_display_name": "Menangle",
+            "mobile_display_name": "Menangle",
+            "track_slug": "/tabcorp-pk-menangle",
+            "day_night_twilight": "D",
+            "race_number": 1,
+            "meeting_date": "2026-08-25",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Scr",
+          "saddlecloth_number": 12,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": true,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": "ODM",
+          "formatted_handicap": "Scr",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": null,
+          "forecast_odds": "51.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": true,
+          "silk": {
+            "description": "WHITE, FIVE STAR HORSE TRANSPORT LOGO, BLUE STARS SLEEVES",
+            "silk_image": {
+              "filename": "214.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBejRYYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0482bb39707740b3d0d8f976f5953420c5706d66/214.png"
+            }
+          },
+          "horse": {
+            "id": 4374,
+            "name": "Mackel Sonny",
+            "slug": "/mackel-sonny"
+          },
+          "trainer": {
+            "display_name": "Tayla Gillespie",
+            "mobile_display_name": "T E Gillespie",
+            "slug": "/tayla-gillespie"
+          },
+          "driver": {
+            "display_name": "Matt Elkins",
+            "mobile_display_name": "M J Elkins",
+            "slug": "/matt-elkins"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "9s686",
+            "horse_class": "NR48"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP290926",
+            "rise_race_code": "APC29092613",
+            "place": "6",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 2,
+            "meeting_date": "2026-09-29",
+            "has_replay": true
+          },
+          "sectionals": null
+        }
+      ]
+    },
+    {
+      "rise_race_code": "APC06102611",
+      "race_number": 2,
+      "name": "Burwood Stud 2yo Maiden Pace",
+      "short_name": "Burwood Stud 2yo Maiden",
+      "distance": 1660,
+      "start_type": "MS",
+      "bet_types": "FIRST 4, 2ND LEG EARLY QUADRELLA",
+      "scheduled_start_time": "2026-10-06T14:17:00+11:00",
+      "race_class": "2YO. No NR. RBD. Pacers",
+      "race_notes": "NDC. NMC. 2YO's that have never won a race.\r\nA 1% deduction for Equine Welfare will be applied to all prizemoney prior to distribution.",
+      "replay_video": null,
+      "finish_photo": null,
+      "has_stewards_replay": false,
+      "stewards_replay_videos": [],
+      "track_condition": null,
+      "tips": "",
+      "race_status": "fields_drawn",
+      "result_places": null,
+      "has_replay": false,
+      "total_prize_money": 9000,
+      "gross_time": null,
+      "mile_rate": null,
+      "lead_time": null,
+      "quarters": null,
+      "cumulative_mile": null,
+      "margins": null,
+      "track_record": {
+        "rise_meeting_code": "AP220325",
+        "rise_race_code": "APM22032501",
+        "horse_name": "Leap To Fame",
+        "horse_slug": "/leap-to-fame",
+        "race_number": 6,
+        "race_date": "2025-03-22",
+        "meeting_day_night_twilight": "N",
+        "time_mile_rate": "1:48.6",
+        "start_type": "MS",
+        "distance": 1660
+      },
+      "prizemoney_distribution": {
+        "1": "5985.0",
+        "2": "1710.0",
+        "3": "855.0",
+        "4": "570.0",
+        "5": "380.0",
+        "6": "60.0",
+        "7": "60.0",
+        "8": "60.0",
+        "9": "60.0",
+        "10": "60.0"
+      },
+      "runners": [
+        {
+          "barrier": "Fr1",
+          "saddlecloth_number": 1,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": "(C)",
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr1",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "4.60",
+          "forecast_odds": "6.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "YELLOW, BLACK YOKE & BRACES, YELLOW STARS, BLACK SLEEVES, YELLOW CUFFS, \"TC\" INITIALS",
+            "silk_image": {
+              "filename": "1148.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK3NTYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--342efec57d6fad76626d3012230ecf99cf0c0e22/1148.png"
+            }
+          },
+          "horse": {
+            "id": 21007,
+            "name": "Illberidingshotgun",
+            "slug": "/illberidingshotgun"
+          },
+          "trainer": {
+            "display_name": "Chantal Turpin",
+            "mobile_display_name": "C A Turpin",
+            "slug": "/chantal-turpin"
+          },
+          "driver": {
+            "display_name": "Tom Callaghan",
+            "mobile_display_name": "T M Callaghan",
+            "slug": "/tom-callaghan"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "223s",
+            "horse_class": "NR45"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP230626",
+            "rise_race_code": "APC23062614",
+            "place": "3",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 1,
+            "meeting_date": "2026-06-23",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Fr2",
+          "saddlecloth_number": 2,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr2",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "2.45",
+          "forecast_odds": "3.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "BLACK & WHITE CHECKS, WHITE SLEEVES",
+            "silk_image": {
+              "filename": "22.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNEMxYVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--94e7d6a53dee53b78d797bfdf426f9c9f7e4af6f/22.png"
+            }
+          },
+          "horse": {
+            "id": 137532,
+            "name": "Cherry Surprise",
+            "slug": "/cherry-surprise"
+          },
+          "trainer": {
+            "display_name": "Grant Dixon",
+            "mobile_display_name": "G W Dixon",
+            "slug": "/grant-dixon"
+          },
+          "driver": {
+            "display_name": "Grant Dixon",
+            "mobile_display_name": "G W Dixon",
+            "slug": "/grant-dixon"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "20",
+            "horse_class": "NR45"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP220826",
+            "rise_race_code": "APM22082601",
+            "place": "10",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "N",
+            "race_number": 7,
+            "meeting_date": "2026-08-22",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Fr3",
+          "saddlecloth_number": 3,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr3",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "17.00",
+          "forecast_odds": "11.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "NAVY BLUE, CREAM STAR & SEAMS, MAROON SLEEVES, CREAM STARS",
+            "silk_image": {
+              "filename": "232.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL29TYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d8f1b4f410a775d9bf80d0652035e290d4f607e0/232.png"
+            }
+          },
+          "horse": {
+            "id": 21006,
+            "name": "Broadwaybeauty",
+            "slug": "/broadwaybeauty"
+          },
+          "trainer": {
+            "display_name": "Dayl March",
+            "mobile_display_name": "D R March",
+            "slug": "/dayl-march"
+          },
+          "driver": {
+            "display_name": "Mathew Neilson",
+            "mobile_display_name": "M P Neilson",
+            "slug": "/mathew-neilson"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "555s5",
+            "horse_class": "NR44"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP290926",
+            "rise_race_code": "APC29092612",
+            "place": "5",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 1,
+            "meeting_date": "2026-09-29",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Fr4",
+          "saddlecloth_number": 4,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr4",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "23.00",
+          "forecast_odds": "16.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "BLACK, YELLOW YOKE, WHITE STARS, YELLOW SLEEVES, WHITE STAR",
+            "silk_image": {
+              "filename": "1406.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMFVYYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a37a07b2777f147e334afd232c6343335ab817e3/1406.png"
+            }
+          },
+          "horse": {
+            "id": 56208,
+            "name": "Heirtothecrown",
+            "slug": "/heirtothecrown"
+          },
+          "trainer": {
+            "display_name": "Darren McCall",
+            "mobile_display_name": "D J McCall",
+            "slug": "/darren-mccall"
+          },
+          "driver": {
+            "display_name": "Darren McCall",
+            "mobile_display_name": "D J McCall",
+            "slug": "/darren-mccall"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "2",
+            "horse_class": "NR45"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP280926",
+            "rise_race_code": "APB28092609",
+            "place": "2",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 1,
+            "meeting_date": "2026-09-28",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Fr5",
+          "saddlecloth_number": 5,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr5",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "15.00",
+          "forecast_odds": "16.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "ROYAL BLUE, YELLOW SHEAF & B, LIGHT BLUE SLEEVES, YELLOW DIAMONDS",
+            "silk_image": {
+              "filename": "1431.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL0FTYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--83134923cd31b12ca5f300b2b70d16cb3bb3aff7/1431.png"
+            }
+          },
+          "horse": {
+            "id": 441900,
+            "name": "Uncle Nolan",
+            "slug": "/uncle-nolan"
+          },
+          "trainer": {
+            "display_name": "Chris Frisby",
+            "mobile_display_name": "C B Frisby",
+            "slug": "/chris-frisby"
+          },
+          "driver": {
+            "display_name": "Nathan Dawson",
+            "mobile_display_name": "N M Dawson",
+            "slug": "/nathan-dawson"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "705s",
+            "horse_class": "NR43"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "BH270326",
+            "rise_race_code": "BHM27032604",
+            "place": "5",
+            "desktop_display_name": "Bathurst",
+            "mobile_display_name": "Bathurst",
+            "track_slug": "/bathurst",
+            "day_night_twilight": "D",
+            "race_number": 4,
+            "meeting_date": "2026-03-27",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Scr",
+          "saddlecloth_number": 6,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": true,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": "(C)",
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Scr",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": null,
+          "forecast_odds": "8.50",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "BLACK, MAROON BRACES & YOKE WITH BLACK DIAMONDS, WHITE PIPING, BLACK SLEEVES",
+            "silk_image": {
+              "filename": "11803.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd0lUYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ced55fedf41de05ccb6386782a36d3482096c761/11803.png"
+            }
+          },
+          "horse": {
+            "id": 441651,
+            "name": "Reserved For Me",
+            "slug": "/reserved-for-me"
+          },
+          "trainer": {
+            "display_name": "Shannon Price",
+            "mobile_display_name": "S M Price",
+            "slug": "/shannon-price"
+          },
+          "driver": {
+            "display_name": "Mitch Cox",
+            "mobile_display_name": "M B Cox",
+            "slug": "/mitchell-cox"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "3",
+            "horse_class": "NR45"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP290926",
+            "rise_race_code": "APC29092612",
+            "place": "3",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 1,
+            "meeting_date": "2026-09-29",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Fr6",
+          "saddlecloth_number": 7,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": "(C)",
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr6",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "126.00",
+          "forecast_odds": "81.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "RED, BLACK BRACES & YOKE, WHITE DIAMONDS, RED SLEEVES, BLACK STRIPE, WHITE DIAMOND",
+            "silk_image": {
+              "filename": "87.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMndYYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1bf22125c9944cb9323139f2d41a167f17038c66/87.png"
+            }
+          },
+          "horse": {
+            "id": 441614,
+            "name": "Pedro Of Peak",
+            "slug": "/pedro-of-peak"
+          },
+          "trainer": {
+            "display_name": "Ryan Veivers",
+            "mobile_display_name": "R J Veivers",
+            "slug": "/ryan-veivers"
+          },
+          "driver": {
+            "display_name": "Layne Dwyer",
+            "mobile_display_name": "L L Dwyer",
+            "slug": "/layne-dwyer"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "7",
+            "horse_class": "NR44"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "RE300926",
+            "rise_race_code": "REC30092611",
+            "place": "7",
+            "desktop_display_name": "Redcliffe",
+            "mobile_display_name": "Redcliffe",
+            "track_slug": "/redcliffe",
+            "day_night_twilight": "N",
+            "race_number": 8,
+            "meeting_date": "2026-09-30",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Scr",
+          "saddlecloth_number": 8,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": true,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Scr",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": null,
+          "forecast_odds": "3.40",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": true,
+          "silk": {
+            "description": "RED, BLACK STARS & STRIPES",
+            "silk_image": {
+              "filename": "181.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBLzRTYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5e0bf48b9cab58e61c34c2baead959f5918396ec/181.png"
+            }
+          },
+          "horse": {
+            "id": 157111,
+            "name": "Bling Your A Game",
+            "slug": "/bling-your-a-game"
+          },
+          "trainer": {
+            "display_name": "Shannon Price",
+            "mobile_display_name": "S M Price",
+            "slug": "/shannon-price"
+          },
+          "driver": {
+            "display_name": "Adam Sanderson",
+            "mobile_display_name": "A F J Sanderson",
+            "slug": "/adam-sanderson"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "28s5s",
+            "horse_class": "NR44"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "RE050626",
+            "rise_race_code": "REC05062607",
+            "place": "5",
+            "desktop_display_name": "Redcliffe",
+            "mobile_display_name": "Redcliffe",
+            "track_slug": "/redcliffe",
+            "day_night_twilight": "N",
+            "race_number": 7,
+            "meeting_date": "2026-06-05",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Sr1",
+          "saddlecloth_number": 9,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Sr1",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "1.85",
+          "forecast_odds": "4.20",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": true,
+          "silk": {
+            "description": "BLUE, PURPLE BRACES, WHITE YOKE WITH PURPLE STARS, WHITE SLEEVES, PURPLE STARS",
+            "silk_image": {
+              "filename": "8.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMllTYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--02433486c61c05d6e31cf01d3fbf64d0df8a8fb9/8.png"
+            }
+          },
+          "horse": {
+            "id": 441808,
+            "name": "Doublefault",
+            "slug": "/doublefault"
+          },
+          "trainer": {
+            "display_name": "Chantal Turpin",
+            "mobile_display_name": "C A Turpin",
+            "slug": "/chantal-turpin"
+          },
+          "driver": {
+            "display_name": "Pete McMullen",
+            "mobile_display_name": "P J McMullen",
+            "slug": "/pete-mcmullen"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "44222",
+            "horse_class": "NR45"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP290926",
+            "rise_race_code": "APC29092612",
+            "place": "2",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 1,
+            "meeting_date": "2026-09-29",
+            "has_replay": true
+          },
+          "sectionals": null
+        }
+      ]
+    },
+    {
+      "rise_race_code": "APC06102615",
+      "race_number": 3,
+      "name": "Stance Equitec Pace",
+      "short_name": "Stance Equitec Pace",
+      "distance": 1660,
+      "start_type": "MS",
+      "bet_types": "FIRST 4, 3RD LEG EARLY QUADRELLA",
+      "scheduled_start_time": "2026-10-06T14:52:00+11:00",
+      "race_class": "3YO and older. NR up to 45. PBD/FSP. Pacers",
+      "race_notes": "NDC. NMC.\r\nA 1% deduction for Equine Welfare will be applied to all prizemoney prior to distribution.",
+      "replay_video": null,
+      "finish_photo": null,
+      "has_stewards_replay": false,
+      "stewards_replay_videos": [],
+      "track_condition": null,
+      "tips": "",
+      "race_status": "fields_drawn",
+      "result_places": null,
+      "has_replay": false,
+      "total_prize_money": 7880,
+      "gross_time": null,
+      "mile_rate": null,
+      "lead_time": null,
+      "quarters": null,
+      "cumulative_mile": null,
+      "margins": null,
+      "track_record": {
+        "rise_meeting_code": "AP220325",
+        "rise_race_code": "APM22032501",
+        "horse_name": "Leap To Fame",
+        "horse_slug": "/leap-to-fame",
+        "race_number": 6,
+        "race_date": "2025-03-22",
+        "meeting_day_night_twilight": "N",
+        "time_mile_rate": "1:48.6",
+        "start_type": "MS",
+        "distance": 1660
+      },
+      "prizemoney_distribution": {
+        "1": "4775.0",
+        "2": "1364.0",
+        "3": "682.0",
+        "4": "455.0",
+        "5": "304.0",
+        "6": "60.0",
+        "7": "60.0",
+        "8": "60.0",
+        "9": "60.0",
+        "10": "60.0"
+      },
+      "runners": [
+        {
+          "barrier": "Fr1",
+          "saddlecloth_number": 1,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr1",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "6.50",
+          "forecast_odds": "8.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "BLACK, BLUE YOKE, BRACES & BAND, BLACK HORSESHOES, WHITE SLEEVES, BLACK H AND CUFFS",
+            "silk_image": {
+              "filename": "189.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeTRYYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--82e83696bcc2abb82587966504691953bf176da1/189.png"
+            }
+          },
+          "horse": {
+            "id": 10904,
+            "name": "Take A Chance",
+            "slug": "/take-a-chance"
+          },
+          "trainer": {
+            "display_name": "Jonah Hutchinson",
+            "mobile_display_name": "J J Hutchinson",
+            "slug": "/jonah-hutchinson"
+          },
+          "driver": {
+            "display_name": "Jonah Hutchinson",
+            "mobile_display_name": "J J Hutchinson",
+            "slug": "/jonah-hutchinson"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "03660",
+            "horse_class": "NR42"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP290926",
+            "rise_race_code": "APC29092606",
+            "place": "10",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 6,
+            "meeting_date": "2026-09-29",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Fr2",
+          "saddlecloth_number": 2,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr2",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "3.30",
+          "forecast_odds": "4.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "GREEN, WHITE BAND",
+            "silk_image": {
+              "filename": "2.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeXdUYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f71877cfb07ac56295f18b370593f6f6f78eb0dd/2.png"
+            }
+          },
+          "horse": {
+            "id": 11752,
+            "name": "Rockin Sweet",
+            "slug": "/rockin-sweet"
+          },
+          "trainer": {
+            "display_name": "Lola Weidemann",
+            "mobile_display_name": "L J Weidemann",
+            "slug": "/lola-weidemann"
+          },
+          "driver": {
+            "display_name": "Lola Weidemann",
+            "mobile_display_name": "L J Weidemann",
+            "slug": "/lola-weidemann"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "49664",
+            "horse_class": "NR44"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP280926",
+            "rise_race_code": "APB28092605",
+            "place": "4",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 5,
+            "meeting_date": "2026-09-28",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Fr3",
+          "saddlecloth_number": 3,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr3",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "8.00",
+          "forecast_odds": "14.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "BLUE, WHITE DIAMONDS",
+            "silk_image": {
+              "filename": "568.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBejhTYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e7e5df0590f4914231065fbc7c3e818e7ce37d09/568.png"
+            }
+          },
+          "horse": {
+            "id": 5188,
+            "name": "Drakaina",
+            "slug": "/drakaina"
+          },
+          "trainer": {
+            "display_name": "Ricky Hart",
+            "mobile_display_name": "R W Hart",
+            "slug": "/ricky-hart"
+          },
+          "driver": {
+            "display_name": "Brendan Barnes",
+            "mobile_display_name": "B W Barnes",
+            "slug": "/brendan-barnes"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "26778",
+            "horse_class": "NR43"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP290926",
+            "rise_race_code": "APC29092606",
+            "place": "8",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 6,
+            "meeting_date": "2026-09-29",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Fr4",
+          "saddlecloth_number": 4,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr4",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "19.00",
+          "forecast_odds": "11.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "ROYAL BLUE, WHITE BRACES & ROYAL BLUE STARS, RED COLLAR & WAISTBAND, ROYAL BLUE SLEEVES, RED PIPING",
+            "silk_image": {
+              "filename": "1049.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeTBYYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7fc5dc168678efd6793b415e91281196cd383b1a/1049.png"
+            }
+          },
+          "horse": {
+            "id": 5421,
+            "name": "Beach Magic",
+            "slug": "/beach-magic"
+          },
+          "trainer": {
+            "display_name": "Alanah Richardson",
+            "mobile_display_name": "A K Richardson",
+            "slug": "/alanah-richardson"
+          },
+          "driver": {
+            "display_name": "Alanah Richardson",
+            "mobile_display_name": "A K Richardson",
+            "slug": "/alanah-richardson"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "29745",
+            "horse_class": "NR40"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP280926",
+            "rise_race_code": "APB28092612",
+            "place": "5",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 4,
+            "meeting_date": "2026-09-28",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Fr5",
+          "saddlecloth_number": 5,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": "(C)",
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr5",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "21.00",
+          "forecast_odds": "14.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "HOT PINK WITH BLACK LETTER G, HOT PINK SLEEVES WITH BLACK \"GG\" ON CUFFS",
+            "silk_image": {
+              "filename": "1058.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBelVUYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c1be0481c9e6b6604f96f70260d0abd78d6fd9ec/1058.png"
+            }
+          },
+          "horse": {
+            "id": 435372,
+            "name": "Pinkchampagne",
+            "slug": "/pinkchampagne"
+          },
+          "trainer": {
+            "display_name": "Gail Geeson",
+            "mobile_display_name": "G Geeson",
+            "slug": "/gail-geeson"
+          },
+          "driver": {
+            "display_name": "Nathan Rothwell",
+            "mobile_display_name": "N T Rothwell",
+            "slug": "/nathan-rothwell"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "90551",
+            "horse_class": "NR45"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP280926",
+            "rise_race_code": "APB28092605",
+            "place": "1",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 5,
+            "meeting_date": "2026-09-28",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Fr6",
+          "saddlecloth_number": 6,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr6",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "51.00",
+          "forecast_odds": "8.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "BLACK, WHITE FLEUR DE LIS, RED SLEEVES WITH WHITE STRIPE AND CUFFS",
+            "silk_image": {
+              "filename": "519.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOWNTYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--26abf80a1fddc76056ef6c974ebe22efadba3c49/519.png"
+            }
+          },
+          "horse": {
+            "id": 2710,
+            "name": "Azor Ahai NZ",
+            "slug": "/azor-ahai-nz"
+          },
+          "trainer": {
+            "display_name": "Chris Watson",
+            "mobile_display_name": "C M Watson",
+            "slug": "/chris-watson"
+          },
+          "driver": {
+            "display_name": "Adam Richardson",
+            "mobile_display_name": "A P Richardson",
+            "slug": "/adam-richardson"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "96281",
+            "horse_class": "NR43"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP290926",
+            "rise_race_code": "APC29092607",
+            "place": "1",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 5,
+            "meeting_date": "2026-09-29",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Fr7",
+          "saddlecloth_number": 7,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": "ODM",
+          "formatted_handicap": "Fr7",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "31.00",
+          "forecast_odds": "11.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "MAROON, CREAM FERN, BLACK SLEEVES, CREAM FERNS",
+            "silk_image": {
+              "filename": "1412.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMFFUYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--9694b5eb0430fb356f5a0b91ef32cd7e356083fa/1412.png"
+            }
+          },
+          "horse": {
+            "id": 10765,
+            "name": "My Scimitar",
+            "slug": "/my-scimitar"
+          },
+          "trainer": {
+            "display_name": "Riley Butt",
+            "mobile_display_name": "R P Butt",
+            "slug": "/riley-butt"
+          },
+          "driver": {
+            "display_name": "Angus Garrard",
+            "mobile_display_name": "A R Garrard",
+            "slug": "/angus-garrard"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "96607",
+            "horse_class": "NR44"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "RE170926",
+            "rise_race_code": "REC17092604",
+            "place": "7",
+            "desktop_display_name": "Redcliffe",
+            "mobile_display_name": "Redcliffe",
+            "track_slug": "/redcliffe",
+            "day_night_twilight": "D",
+            "race_number": 5,
+            "meeting_date": "2026-09-17",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Sr1",
+          "saddlecloth_number": 8,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Sr1",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "5.50",
+          "forecast_odds": "5.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": true,
+          "silk": {
+            "description": "CERISE, WHITE BRACES & YOKE/3 CERISE STARS/NAVY BLUE COLLAR/WAIST, WHITE SLEEVES/NAVY BLUE SEAMS",
+            "silk_image": {
+              "filename": "381.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMzRTYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b4287a2eea2f2a48cfd6e7b916e0fac676b24809/381.png"
+            }
+          },
+          "horse": {
+            "id": 22880,
+            "name": "Luvn Osman",
+            "slug": "/luvn-osman"
+          },
+          "trainer": {
+            "display_name": "Jonah Hutchinson",
+            "mobile_display_name": "J J Hutchinson",
+            "slug": "/jonah-hutchinson"
+          },
+          "driver": {
+            "display_name": "Paige Bevan",
+            "mobile_display_name": "P M Bevan",
+            "slug": "/paige-bevan"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "r8243",
+            "horse_class": "NR45"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP290926",
+            "rise_race_code": "APC29092606",
+            "place": "3",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 6,
+            "meeting_date": "2026-09-29",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Sr2",
+          "saddlecloth_number": 9,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Sr2",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "4.20",
+          "forecast_odds": "7.50",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": true,
+          "silk": {
+            "description": "WHITE, ORANGE STARS, BLACK SLEEVES",
+            "silk_image": {
+              "filename": "621.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNklTYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--af03fb0b5b309bd3ec32720b2ccbc76d254e24fc/621.png"
+            }
+          },
+          "horse": {
+            "id": 14318,
+            "name": "Powermove",
+            "slug": "/powermove"
+          },
+          "trainer": {
+            "display_name": "Mark Dux",
+            "mobile_display_name": "M A Dux",
+            "slug": "/mark-dux"
+          },
+          "driver": {
+            "display_name": "Pete McMullen",
+            "mobile_display_name": "P J McMullen",
+            "slug": "/pete-mcmullen"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "16774",
+            "horse_class": "NR45"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP290926",
+            "rise_race_code": "APC29092606",
+            "place": "4",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 6,
+            "meeting_date": "2026-09-29",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Sr3",
+          "saddlecloth_number": 10,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": "(C)",
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Sr3",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "4.50",
+          "forecast_odds": "6.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": true,
+          "silk": {
+            "description": "ROYAL BLUE, RED CHEVRONS & SLEEVES, ROYAL BLUE STARS",
+            "silk_image": {
+              "filename": "11956.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNDBTYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3ef85bf8ec63dcfb5c9e9e78ae99ce3c3c6dfd95/11956.png"
+            }
+          },
+          "horse": {
+            "id": 15118,
+            "name": "Kingsbury",
+            "slug": "/kingsbury"
+          },
+          "trainer": {
+            "display_name": "Ashleigh Chalmers",
+            "mobile_display_name": "A J Chalmers",
+            "slug": "/ashleigh-chalmers"
+          },
+          "driver": {
+            "display_name": "Holly Chalmers",
+            "mobile_display_name": "H M Chalmers",
+            "slug": "/holly-chalmers"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "61237",
+            "horse_class": "NR45"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP290926",
+            "rise_race_code": "APC29092605",
+            "place": "7",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 7,
+            "meeting_date": "2026-09-29",
+            "has_replay": true
+          },
+          "sectionals": null
+        }
+      ]
+    },
+    {
+      "rise_race_code": "APC06102601",
+      "race_number": 4,
+      "name": "Leading Edge Security Pacers Band Handicap",
+      "short_name": "Lead Security Band Hcp",
+      "distance": 2647,
+      "start_type": "SS",
+      "bet_types": "FIRST 4, 4TH LEG EARLY QUADRELLA",
+      "scheduled_start_time": "2026-10-06T15:33:00+11:00",
+      "race_class": "4YO and older. No NR. RBD. Pacers",
+      "race_notes": "NDC. NMC. Horses that have not won a Band Handicap or an Open Pace at their past 3 starts. No Band FT, Band 5/Band 4 10m, Band 3/Band 2 20m, Band 1 30m.\r\nA 1% deduction for Equine Welfare will be applied to all prizemoney prior to distribution.",
+      "replay_video": null,
+      "finish_photo": null,
+      "has_stewards_replay": false,
+      "stewards_replay_videos": [],
+      "track_condition": null,
+      "tips": "",
+      "race_status": "fields_drawn",
+      "result_places": null,
+      "has_replay": false,
+      "total_prize_money": 9120,
+      "gross_time": null,
+      "mile_rate": null,
+      "lead_time": null,
+      "quarters": null,
+      "cumulative_mile": null,
+      "margins": null,
+      "track_record": {
+        "rise_meeting_code": "AP080624",
+        "rise_race_code": "APC08062401",
+        "horse_name": "Leap To Fame",
+        "horse_slug": "/leap-to-fame",
+        "race_number": 4,
+        "race_date": "2024-06-08",
+        "meeting_day_night_twilight": "N",
+        "time_mile_rate": "1:55.5",
+        "start_type": "SS",
+        "distance": 2647
+      },
+      "prizemoney_distribution": {
+        "2": "1566.0",
+        "3": "783.0",
+        "4": "522.0",
+        "5": "348.0",
+        "6": "60.0",
+        "7": "60.0",
+        "8": "60.0",
+        "9": "60.0",
+        "10": "60.0",
+        "11": "60.0",
+        "12": "60.0",
+        "1": "5481.0"
+      },
+      "runners": [
+        {
+          "barrier": "FT Fr1",
+          "saddlecloth_number": 1,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": "(C)",
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "FT",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "10.00",
+          "forecast_odds": "11.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "GOLD & GREEN STRIPES, GOLD YOKE & SLEEVES",
+            "silk_image": {
+              "filename": "1078.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOTRTYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--68217dfbf90ab033563ac9641a3a150d3f876b60/1078.png"
+            }
+          },
+          "horse": {
+            "id": 8506,
+            "name": "Dragon",
+            "slug": "/dragon"
+          },
+          "trainer": {
+            "display_name": "Darrel Graham",
+            "mobile_display_name": "D W Graham",
+            "slug": "/darrel-graham"
+          },
+          "driver": {
+            "display_name": "Tom Callaghan",
+            "mobile_display_name": "T M Callaghan",
+            "slug": "/tom-callaghan"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "17621",
+            "horse_class": "NR80"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP260926",
+            "rise_race_code": "APM26092613",
+            "place": "1",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "N",
+            "race_number": 2,
+            "meeting_date": "2026-09-26",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "10 Fr1",
+          "saddlecloth_number": 2,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": "(C)",
+          "emergency_number": null,
+          "od_status": "ODS",
+          "formatted_handicap": "10m",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "3.60",
+          "forecast_odds": "6.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "BLACK, RED SEAMS, BLACK SLEEVES, RED JC & STRIPE",
+            "silk_image": {
+              "filename": "11830.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeTBUYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--49ea836c4ac4b108098edae59297a1b116f050f8/11830.png"
+            }
+          },
+          "horse": {
+            "id": 435469,
+            "name": "Path To Greatness",
+            "slug": "/path-to-greatness"
+          },
+          "trainer": {
+            "display_name": "Grant Dixon",
+            "mobile_display_name": "G W Dixon",
+            "slug": "/grant-dixon"
+          },
+          "driver": {
+            "display_name": "Jack Chapple",
+            "mobile_display_name": "J J Chapple",
+            "slug": "/jack-chapple"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "47323",
+            "horse_class": "NR104 B4"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP220926",
+            "rise_race_code": "APC22092601",
+            "place": "3",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 3,
+            "meeting_date": "2026-09-22",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "10 Fr2",
+          "saddlecloth_number": 3,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": "(C)",
+          "emergency_number": null,
+          "od_status": "RODS",
+          "formatted_handicap": "10m",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "81.00",
+          "forecast_odds": "31.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "BLACK, WHITE PIPING COLLAR & WAISTBAND, BLACK SLEEVES, WHITE PIN STRIPES",
+            "silk_image": {
+              "filename": "27.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOWdTYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--326881ec79e86ccafe09ff0b5eff181818dc094d/27.png"
+            }
+          },
+          "horse": {
+            "id": 2480,
+            "name": "Betterthan Popsy",
+            "slug": "/betterthan-popsy"
+          },
+          "trainer": {
+            "display_name": "Grant Dixon",
+            "mobile_display_name": "G W Dixon",
+            "slug": "/grant-dixon"
+          },
+          "driver": {
+            "display_name": "Hannah Anforth",
+            "mobile_display_name": "H M Anforth",
+            "slug": "/hannah-anforth"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "46657",
+            "horse_class": "NR76 B4"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP290926",
+            "rise_race_code": "APC29092603",
+            "place": "7",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 4,
+            "meeting_date": "2026-09-29",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "20 Fr1",
+          "saddlecloth_number": 4,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "20m",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "1.30",
+          "forecast_odds": "2.20",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "BLACK & WHITE CHECKS, WHITE SLEEVES",
+            "silk_image": {
+              "filename": "22.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNEMxYVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--94e7d6a53dee53b78d797bfdf426f9c9f7e4af6f/22.png"
+            }
+          },
+          "horse": {
+            "id": 59686,
+            "name": "Fate Awaits",
+            "slug": "/fate-awaits"
+          },
+          "trainer": {
+            "display_name": "Grant Dixon",
+            "mobile_display_name": "G W Dixon",
+            "slug": "/grant-dixon"
+          },
+          "driver": {
+            "display_name": "Grant Dixon",
+            "mobile_display_name": "G W Dixon",
+            "slug": "/grant-dixon"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "22112",
+            "horse_class": "NR120 B3"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP260926",
+            "rise_race_code": "APM26092602",
+            "place": "2",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "N",
+            "race_number": 3,
+            "meeting_date": "2026-09-26",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "20 Fr2",
+          "saddlecloth_number": 5,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "20m",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "8.00",
+          "forecast_odds": "12.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "RED, BLUE BRACES & YOKE WITH WHITE STARS, BLUE SLEEVES, WHITE STARS",
+            "silk_image": {
+              "filename": "451.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM0FYYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a8b01e15065c553a7d864d1466376220ed063d92/451.png"
+            }
+          },
+          "horse": {
+            "id": 10914,
+            "name": "Regazzo Di Tilly",
+            "slug": "/regazzo-di-tilly"
+          },
+          "trainer": {
+            "display_name": "Daren Garrard",
+            "mobile_display_name": "D C Garrard",
+            "slug": "/daren-garrard"
+          },
+          "driver": {
+            "display_name": "Angus Garrard",
+            "mobile_display_name": "A R Garrard",
+            "slug": "/angus-garrard"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "10s73",
+            "horse_class": "NR109 B2"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP260926",
+            "rise_race_code": "APM26092601",
+            "place": "3",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "N",
+            "race_number": 4,
+            "meeting_date": "2026-09-26",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "20 Fr3",
+          "saddlecloth_number": 6,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "20m",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "41.00",
+          "forecast_odds": "61.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "WHITE, GREEN HORSE HEAD",
+            "silk_image": {
+              "filename": "1152.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMHNUYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0691082cd5576c77c73a773475568a99e447680d/1152.png"
+            }
+          },
+          "horse": {
+            "id": 1695,
+            "name": "Free Thinker",
+            "slug": "/free-thinker"
+          },
+          "trainer": {
+            "display_name": "Grant Dixon",
+            "mobile_display_name": "G W Dixon",
+            "slug": "/grant-dixon"
+          },
+          "driver": {
+            "display_name": "Mathew Neilson",
+            "mobile_display_name": "M P Neilson",
+            "slug": "/mathew-neilson"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "34798",
+            "horse_class": "NR91 B3"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP031026",
+            "rise_race_code": "APM03102602",
+            "place": "8",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "N",
+            "race_number": 1,
+            "meeting_date": "2026-10-03",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Scr",
+          "saddlecloth_number": 7,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": true,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "30m",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": null,
+          "forecast_odds": "2.30",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "RED, BLACK STARS & STRIPES",
+            "silk_image": {
+              "filename": "181.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBLzRTYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5e0bf48b9cab58e61c34c2baead959f5918396ec/181.png"
+            }
+          },
+          "horse": {
+            "id": 445975,
+            "name": "Final Deadline NZ",
+            "slug": "/final-deadline-nz"
+          },
+          "trainer": {
+            "display_name": "Shannon Price",
+            "mobile_display_name": "S M Price",
+            "slug": "/shannon-price"
+          },
+          "driver": {
+            "display_name": "Adam Sanderson",
+            "mobile_display_name": "A F J Sanderson",
+            "slug": "/adam-sanderson"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "171s1",
+            "horse_class": "NR120 B1"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP260926",
+            "rise_race_code": "APM26092602",
+            "place": "1",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "N",
+            "race_number": 3,
+            "meeting_date": "2026-09-26",
+            "has_replay": true
+          },
+          "sectionals": null
+        }
+      ]
+    },
+    {
+      "rise_race_code": "APC06102606",
+      "race_number": 5,
+      "name": "Wolf Signs Pace",
+      "short_name": "Wolf Signs Pace",
+      "distance": 1660,
+      "start_type": "MS",
+      "bet_types": "1ST LEG QUADRELLA, FIRST 4, 1ST LEG DOUBLE",
+      "scheduled_start_time": "2026-10-06T16:12:00+11:00",
+      "race_class": "3YO and older. NR up to 45. PBD/FSP. Pacers",
+      "race_notes": "NDC. NMC.\r\nA 1% deduction for Equine Welfare will be applied to all prizemoney prior to distribution.",
+      "replay_video": null,
+      "finish_photo": null,
+      "has_stewards_replay": false,
+      "stewards_replay_videos": [],
+      "track_condition": null,
+      "tips": "",
+      "race_status": "fields_drawn",
+      "result_places": null,
+      "has_replay": false,
+      "total_prize_money": 7880,
+      "gross_time": null,
+      "mile_rate": null,
+      "lead_time": null,
+      "quarters": null,
+      "cumulative_mile": null,
+      "margins": null,
+      "track_record": {
+        "rise_meeting_code": "AP220325",
+        "rise_race_code": "APM22032501",
+        "horse_name": "Leap To Fame",
+        "horse_slug": "/leap-to-fame",
+        "race_number": 6,
+        "race_date": "2025-03-22",
+        "meeting_day_night_twilight": "N",
+        "time_mile_rate": "1:48.6",
+        "start_type": "MS",
+        "distance": 1660
+      },
+      "prizemoney_distribution": {
+        "1": "4775.0",
+        "2": "1364.0",
+        "3": "682.0",
+        "4": "455.0",
+        "5": "304.0",
+        "6": "60.0",
+        "7": "60.0",
+        "8": "60.0",
+        "9": "60.0",
+        "10": "60.0"
+      },
+      "runners": [
+        {
+          "barrier": "Fr1",
+          "saddlecloth_number": 1,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr1",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "3.40",
+          "forecast_odds": "14.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "NAVY BLUE, WHITE V, RED SLEEVES, GOLD STARS",
+            "silk_image": {
+              "filename": "260.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNTRTYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--9405c078531a4030dc6b9be6bd9dbb7887dc35ff/260.png"
+            }
+          },
+          "horse": {
+            "id": 11758,
+            "name": "Arkuna",
+            "slug": "/arkuna"
+          },
+          "trainer": {
+            "display_name": "Grant Dixon",
+            "mobile_display_name": "G W Dixon",
+            "slug": "/grant-dixon"
+          },
+          "driver": {
+            "display_name": "Grant Dixon",
+            "mobile_display_name": "G W Dixon",
+            "slug": "/grant-dixon"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "09657",
+            "horse_class": "NR45"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP290926",
+            "rise_race_code": "APC29092606",
+            "place": "7",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 6,
+            "meeting_date": "2026-09-29",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Fr2",
+          "saddlecloth_number": 2,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr2",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "10.00",
+          "forecast_odds": "8.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "NAVY BLUE, CREAM STAR & SEAMS, MAROON SLEEVES, CREAM STARS",
+            "silk_image": {
+              "filename": "232.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL29TYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d8f1b4f410a775d9bf80d0652035e290d4f607e0/232.png"
+            }
+          },
+          "horse": {
+            "id": 2442,
+            "name": "Arnold Street",
+            "slug": "/arnold-street"
+          },
+          "trainer": {
+            "display_name": "Dayl March",
+            "mobile_display_name": "D R March",
+            "slug": "/dayl-march"
+          },
+          "driver": {
+            "display_name": "Paige Bevan",
+            "mobile_display_name": "P M Bevan",
+            "slug": "/paige-bevan"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "s7575",
+            "horse_class": "NR43"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP021026",
+            "rise_race_code": "APC02102605",
+            "place": "5",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 4,
+            "meeting_date": "2026-10-02",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Fr3",
+          "saddlecloth_number": 3,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr3",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "11.00",
+          "forecast_odds": "6.50",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "ROYAL BLUE, WHITE BRACES & ROYAL BLUE STARS, RED COLLAR & WAISTBAND, ROYAL BLUE SLEEVES, RED PIPING",
+            "silk_image": {
+              "filename": "1049.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeTBYYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7fc5dc168678efd6793b415e91281196cd383b1a/1049.png"
+            }
+          },
+          "horse": {
+            "id": 3886,
+            "name": "Shez A Warrior",
+            "slug": "/shez-a-warrior"
+          },
+          "trainer": {
+            "display_name": "Alanah Richardson",
+            "mobile_display_name": "A K Richardson",
+            "slug": "/alanah-richardson"
+          },
+          "driver": {
+            "display_name": "Adam Richardson",
+            "mobile_display_name": "A P Richardson",
+            "slug": "/adam-richardson"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "85250",
+            "horse_class": "NR44"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP280926",
+            "rise_race_code": "APB28092604",
+            "place": "10",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 6,
+            "meeting_date": "2026-09-28",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Fr4",
+          "saddlecloth_number": 4,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr4",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "1.95",
+          "forecast_odds": "7.50",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "BLACK, WHITE FLEUR DE LIS, RED SLEEVES WITH WHITE STRIPE AND CUFFS",
+            "silk_image": {
+              "filename": "519.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOWNTYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--26abf80a1fddc76056ef6c974ebe22efadba3c49/519.png"
+            }
+          },
+          "horse": {
+            "id": 8284,
+            "name": "Sports Bounty",
+            "slug": "/sports-bounty"
+          },
+          "trainer": {
+            "display_name": "Chris Watson",
+            "mobile_display_name": "C M Watson",
+            "slug": "/chris-watson"
+          },
+          "driver": {
+            "display_name": "Pete McMullen",
+            "mobile_display_name": "P J McMullen",
+            "slug": "/pete-mcmullen"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "67710",
+            "horse_class": "NR41 B5"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP290926",
+            "rise_race_code": "APC29092607",
+            "place": "10",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 5,
+            "meeting_date": "2026-09-29",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Fr5",
+          "saddlecloth_number": 5,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr5",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "9.50",
+          "forecast_odds": "6.50",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "ORANGE, GREEN SHAMROCK, BLACK SLEEVES",
+            "silk_image": {
+              "filename": "668.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOVFTYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3e07abbf92f29ae2f2d7033ae5fd38bf38d727ea/668.png"
+            }
+          },
+          "horse": {
+            "id": 3015,
+            "name": "Macs A Dude",
+            "slug": "/macs-a-dude"
+          },
+          "trainer": {
+            "display_name": "Ron Sallis",
+            "mobile_display_name": "R J Sallis",
+            "slug": "/ron-sallis"
+          },
+          "driver": {
+            "display_name": "Adam Sanderson",
+            "mobile_display_name": "A F J Sanderson",
+            "slug": "/adam-sanderson"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "84833",
+            "horse_class": "NR44"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "RE011026",
+            "rise_race_code": "REC01102604",
+            "place": "3",
+            "desktop_display_name": "Redcliffe",
+            "mobile_display_name": "Redcliffe",
+            "track_slug": "/redcliffe",
+            "day_night_twilight": "D",
+            "race_number": 4,
+            "meeting_date": "2026-10-01",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Fr6",
+          "saddlecloth_number": 6,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr6",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "126.00",
+          "forecast_odds": "18.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "WHITE, BLACK STAR",
+            "silk_image": {
+              "filename": "556.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNHNTYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--99778a100b29d303f75f472fdd760c30c2c63af3/556.png"
+            }
+          },
+          "horse": {
+            "id": 845,
+            "name": "Rocknroll Da Gama",
+            "slug": "/rocknroll-da-gama"
+          },
+          "trainer": {
+            "display_name": "Lola Weidemann",
+            "mobile_display_name": "L J Weidemann",
+            "slug": "/lola-weidemann"
+          },
+          "driver": {
+            "display_name": "Lola Weidemann",
+            "mobile_display_name": "L J Weidemann",
+            "slug": "/lola-weidemann"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "72483",
+            "horse_class": "NR37"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "RE210926",
+            "rise_race_code": "REB21092606",
+            "place": "3",
+            "desktop_display_name": "Redcliffe",
+            "mobile_display_name": "Redcliffe",
+            "track_slug": "/redcliffe",
+            "day_night_twilight": "N",
+            "race_number": 6,
+            "meeting_date": "2026-09-21",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Fr7",
+          "saddlecloth_number": 7,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr7",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "14.00",
+          "forecast_odds": "3.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "BLACK, GOLD QUARTERS",
+            "silk_image": {
+              "filename": "493.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNUVTYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7a2df6435e4dfbafcc7be78ba03d108aa7a2ac91/493.png"
+            }
+          },
+          "horse": {
+            "id": 3293,
+            "name": "Pocket Book NZ",
+            "slug": "/pocket-book-nz"
+          },
+          "trainer": {
+            "display_name": "Richard Hutchinson",
+            "mobile_display_name": "R P Hutchinson",
+            "slug": "/richard-hutchinson"
+          },
+          "driver": {
+            "display_name": "Nathan Dawson",
+            "mobile_display_name": "N M Dawson",
+            "slug": "/nathan-dawson"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "35220",
+            "horse_class": "NR43"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP290926",
+            "rise_race_code": "APC29092606",
+            "place": "11",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 6,
+            "meeting_date": "2026-09-29",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Sr1",
+          "saddlecloth_number": 8,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Sr1",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "17.00",
+          "forecast_odds": "21.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": true,
+          "silk": {
+            "description": "BLACK, PURPLE HOOPS & ARMBANDS",
+            "silk_image": {
+              "filename": "606.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNGNTYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--fd3516d1a96ddf99261cf0ac2e45121f22e4e574/606.png"
+            }
+          },
+          "horse": {
+            "id": 756,
+            "name": "Diego Delgado",
+            "slug": "/diego-delgado"
+          },
+          "trainer": {
+            "display_name": "Melissa Kendall",
+            "mobile_display_name": "M B Kendall",
+            "slug": "/melissa-kendall"
+          },
+          "driver": {
+            "display_name": "Narissa Elkins",
+            "mobile_display_name": "N J Elkins",
+            "slug": "/narissa-mcmullen"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "88494",
+            "horse_class": "NR44"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "RE011026",
+            "rise_race_code": "REC01102604",
+            "place": "4",
+            "desktop_display_name": "Redcliffe",
+            "mobile_display_name": "Redcliffe",
+            "track_slug": "/redcliffe",
+            "day_night_twilight": "D",
+            "race_number": 4,
+            "meeting_date": "2026-10-01",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Sr2",
+          "saddlecloth_number": 9,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Sr2",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "34.00",
+          "forecast_odds": "12.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": true,
+          "silk": {
+            "description": "BLACK, YELLOW YOKE, BRACES & BAND, BLACK HORSESHOES, YELLOW SLEEVES",
+            "silk_image": {
+              "filename": "1028.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNG9TYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e5869c4895b388314fba35c8e66453daeb3bf927/1028.png"
+            }
+          },
+          "horse": {
+            "id": 212,
+            "name": "Dooo Dont Think",
+            "slug": "/dooo-dont-think"
+          },
+          "trainer": {
+            "display_name": "Melissa Kendall",
+            "mobile_display_name": "M B Kendall",
+            "slug": "/melissa-kendall"
+          },
+          "driver": {
+            "display_name": "Matt Elkins",
+            "mobile_display_name": "M J Elkins",
+            "slug": "/matt-elkins"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "45175",
+            "horse_class": "NR43"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "RE300926",
+            "rise_race_code": "REC30092604",
+            "place": "5",
+            "desktop_display_name": "Redcliffe",
+            "mobile_display_name": "Redcliffe",
+            "track_slug": "/redcliffe",
+            "day_night_twilight": "N",
+            "race_number": 3,
+            "meeting_date": "2026-09-30",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Sr3",
+          "saddlecloth_number": 10,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": "(C)",
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Sr3",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "9.50",
+          "forecast_odds": "5.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": true,
+          "silk": {
+            "description": "WHITE, BLUE YOKE WITH WHITE STRIPES, BLUE STARS, BLACK SLEEVES",
+            "silk_image": {
+              "filename": "268.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBek1UYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a0653ae85d861316e3ab913a58b31bf24f91400c/268.png"
+            }
+          },
+          "horse": {
+            "id": 1634,
+            "name": "Harry Kane NZ",
+            "slug": "/harry-kane-nz"
+          },
+          "trainer": {
+            "display_name": "Nathan Rothwell",
+            "mobile_display_name": "N T Rothwell",
+            "slug": "/nathan-rothwell"
+          },
+          "driver": {
+            "display_name": "Nathan Rothwell",
+            "mobile_display_name": "N T Rothwell",
+            "slug": "/nathan-rothwell"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "6s325",
+            "horse_class": "NR44"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP290926",
+            "rise_race_code": "APC29092606",
+            "place": "5",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 6,
+            "meeting_date": "2026-09-29",
+            "has_replay": true
+          },
+          "sectionals": null
+        }
+      ]
+    },
+    {
+      "rise_race_code": "APC06102603",
+      "race_number": 6,
+      "name": "Racing & sports.com Pace",
+      "short_name": "Racing & sports.com Pace",
+      "distance": 1660,
+      "start_type": "MS",
+      "bet_types": "2ND LEG QUADRELLA, FIRST 4, 1ST LEG TREBLE",
+      "scheduled_start_time": "2026-10-06T16:47:00+11:00",
+      "race_class": "3YO and older. NR up to 75. PBD/NR. Pacers",
+      "race_notes": "DC. MC.\r\nA 1% deduction for Equine Welfare will be applied to all prizemoney prior to distribution.",
+      "replay_video": null,
+      "finish_photo": null,
+      "has_stewards_replay": false,
+      "stewards_replay_videos": [],
+      "track_condition": null,
+      "tips": "",
+      "race_status": "fields_drawn",
+      "result_places": null,
+      "has_replay": false,
+      "total_prize_money": 10880,
+      "gross_time": null,
+      "mile_rate": null,
+      "lead_time": null,
+      "quarters": null,
+      "cumulative_mile": null,
+      "margins": null,
+      "track_record": {
+        "rise_meeting_code": "AP220325",
+        "rise_race_code": "APM22032501",
+        "horse_name": "Leap To Fame",
+        "horse_slug": "/leap-to-fame",
+        "race_number": 6,
+        "race_date": "2025-03-22",
+        "meeting_day_night_twilight": "N",
+        "time_mile_rate": "1:48.6",
+        "start_type": "MS",
+        "distance": 1660
+      },
+      "prizemoney_distribution": {
+        "1": "6665.0",
+        "6": "60.0",
+        "3": "952.0",
+        "4": "635.0",
+        "5": "424.0",
+        "7": "60.0",
+        "8": "60.0",
+        "9": "60.0",
+        "10": "60.0",
+        "2": "1904.0"
+      },
+      "runners": [
+        {
+          "barrier": "Fr1",
+          "saddlecloth_number": 1,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": "(C,5)",
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr1",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "67.00",
+          "forecast_odds": "12.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "NAVY BLUE, CREAM STAR & SEAMS, MAROON SLEEVES, CREAM STARS",
+            "silk_image": {
+              "filename": "232.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL29TYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d8f1b4f410a775d9bf80d0652035e290d4f607e0/232.png"
+            }
+          },
+          "horse": {
+            "id": 215,
+            "name": "Bonnies Cam",
+            "slug": "/bonnies-cam"
+          },
+          "trainer": {
+            "display_name": "Dayl March",
+            "mobile_display_name": "D R March",
+            "slug": "/dayl-march"
+          },
+          "driver": {
+            "display_name": "Hannah Anforth",
+            "mobile_display_name": "H M Anforth",
+            "slug": "/hannah-anforth"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "21965",
+            "horse_class": "NR57 (A52)"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP021026",
+            "rise_race_code": "APC02102603",
+            "place": "5",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 7,
+            "meeting_date": "2026-10-02",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Fr2",
+          "saddlecloth_number": 2,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr2",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "2.50",
+          "forecast_odds": "1.60",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "WHITE, RED BRACES, BAND & YOKE WITH WHITE STARS, RED SLEEVES, WHITE STARS",
+            "silk_image": {
+              "filename": "244.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM2dTYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5678c3d828425a50f1037bb57e11a927568e0364/244.png"
+            }
+          },
+          "horse": {
+            "id": 1815,
+            "name": "Sweet Rocky",
+            "slug": "/sweet-rocky"
+          },
+          "trainer": {
+            "display_name": "Matt Elkins",
+            "mobile_display_name": "M J Elkins",
+            "slug": "/matt-elkins"
+          },
+          "driver": {
+            "display_name": "Narissa Elkins",
+            "mobile_display_name": "N J Elkins",
+            "slug": "/narissa-mcmullen"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "07822",
+            "horse_class": "NR57"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP180926",
+            "rise_race_code": "APC18092603",
+            "place": "2",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "N",
+            "race_number": 2,
+            "meeting_date": "2026-09-18",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Fr3",
+          "saddlecloth_number": 3,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": "(C)",
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr3",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "41.00",
+          "forecast_odds": "31.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "BLACK, PURPLE HOOPS & ARMBANDS",
+            "silk_image": {
+              "filename": "606.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNGNTYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--fd3516d1a96ddf99261cf0ac2e45121f22e4e574/606.png"
+            }
+          },
+          "horse": {
+            "id": 11208,
+            "name": "Western Arterra",
+            "slug": "/western-arterra"
+          },
+          "trainer": {
+            "display_name": "Melissa Kendall",
+            "mobile_display_name": "M B Kendall",
+            "slug": "/melissa-kendall"
+          },
+          "driver": {
+            "display_name": "Layne Dwyer",
+            "mobile_display_name": "L L Dwyer",
+            "slug": "/layne-dwyer"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "97955",
+            "horse_class": "NR62 B5"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "RE011026",
+            "rise_race_code": "REC01102601",
+            "place": "5",
+            "desktop_display_name": "Redcliffe",
+            "mobile_display_name": "Redcliffe",
+            "track_slug": "/redcliffe",
+            "day_night_twilight": "D",
+            "race_number": 5,
+            "meeting_date": "2026-10-01",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Fr4",
+          "saddlecloth_number": 4,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr4",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "7.50",
+          "forecast_odds": "11.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "WHITE, RED HORSESHOES, WHITE SLEEVES WITH RED VERTICAL STRIPES",
+            "silk_image": {
+              "filename": "661.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM0FTYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4599f156a97e48e83faf44a818ae95e6641a7916/661.png"
+            }
+          },
+          "horse": {
+            "id": 1524,
+            "name": "Amami",
+            "slug": "/amami"
+          },
+          "trainer": {
+            "display_name": "Gemma Hewitt",
+            "mobile_display_name": "G C Hewitt",
+            "slug": "/gemma-hewitt"
+          },
+          "driver": {
+            "display_name": "Brendan Barnes",
+            "mobile_display_name": "B W Barnes",
+            "slug": "/brendan-barnes"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "56765",
+            "horse_class": "NR67 B3"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP021026",
+            "rise_race_code": "APC02102602",
+            "place": "5",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 5,
+            "meeting_date": "2026-10-02",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Fr5",
+          "saddlecloth_number": 5,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr5",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "2.55",
+          "forecast_odds": "8.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "ORANGE, GREEN SHAMROCK, BLACK SLEEVES",
+            "silk_image": {
+              "filename": "668.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOVFTYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3e07abbf92f29ae2f2d7033ae5fd38bf38d727ea/668.png"
+            }
+          },
+          "horse": {
+            "id": 5748,
+            "name": "Fifty Three Stars",
+            "slug": "/fifty-three-stars"
+          },
+          "trainer": {
+            "display_name": "Ron Sallis",
+            "mobile_display_name": "R J Sallis",
+            "slug": "/ron-sallis"
+          },
+          "driver": {
+            "display_name": "Adam Sanderson",
+            "mobile_display_name": "A F J Sanderson",
+            "slug": "/adam-sanderson"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "14351",
+            "horse_class": "NR76 B5"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP031026",
+            "rise_race_code": "APM03102605",
+            "place": "1",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "N",
+            "race_number": 2,
+            "meeting_date": "2026-10-03",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Fr6",
+          "saddlecloth_number": 6,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr6",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "23.00",
+          "forecast_odds": "14.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "BLUE, PURPLE BRACES, WHITE YOKE WITH PURPLE STARS, WHITE SLEEVES, PURPLE STARS",
+            "silk_image": {
+              "filename": "8.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMllTYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--02433486c61c05d6e31cf01d3fbf64d0df8a8fb9/8.png"
+            }
+          },
+          "horse": {
+            "id": 187112,
+            "name": "Scruffy NZ",
+            "slug": "/scruffy-nz"
+          },
+          "trainer": {
+            "display_name": "Chris Frisby",
+            "mobile_display_name": "C B Frisby",
+            "slug": "/chris-frisby"
+          },
+          "driver": {
+            "display_name": "Pete McMullen",
+            "mobile_display_name": "P J McMullen",
+            "slug": "/pete-mcmullen"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "48203",
+            "horse_class": "NR71"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP290926",
+            "rise_race_code": "APC29092603",
+            "place": "3",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 4,
+            "meeting_date": "2026-09-29",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Fr7",
+          "saddlecloth_number": 7,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": "ODM",
+          "formatted_handicap": "Fr7",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "126.00",
+          "forecast_odds": "21.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "BLACK, YELLOW YOKE, BRACES & BAND, BLACK HORSESHOES, YELLOW SLEEVES",
+            "silk_image": {
+              "filename": "1028.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNG9TYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e5869c4895b388314fba35c8e66453daeb3bf927/1028.png"
+            }
+          },
+          "horse": {
+            "id": 2573,
+            "name": "Martin Magic",
+            "slug": "/martin-magic"
+          },
+          "trainer": {
+            "display_name": "Matt Elkins",
+            "mobile_display_name": "M J Elkins",
+            "slug": "/matt-elkins"
+          },
+          "driver": {
+            "display_name": "Matt Elkins",
+            "mobile_display_name": "M J Elkins",
+            "slug": "/matt-elkins"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "38499",
+            "horse_class": "NR58"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP120926",
+            "rise_race_code": "APM12092613",
+            "place": "9",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "N",
+            "race_number": 5,
+            "meeting_date": "2026-09-12",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Sr1",
+          "saddlecloth_number": 8,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Sr1",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "4.00",
+          "forecast_odds": "6.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": true,
+          "silk": {
+            "description": "ROYAL BLUE, YELLOW SHEAF & B, LIGHT BLUE SLEEVES, YELLOW DIAMONDS",
+            "silk_image": {
+              "filename": "1431.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL0FTYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--83134923cd31b12ca5f300b2b70d16cb3bb3aff7/1431.png"
+            }
+          },
+          "horse": {
+            "id": 14714,
+            "name": "Uncle Tony",
+            "slug": "/uncle-tony"
+          },
+          "trainer": {
+            "display_name": "Chris Frisby",
+            "mobile_display_name": "C B Frisby",
+            "slug": "/chris-frisby"
+          },
+          "driver": {
+            "display_name": "Nathan Dawson",
+            "mobile_display_name": "N M Dawson",
+            "slug": "/nathan-dawson"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "56321",
+            "horse_class": "NR71"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP290926",
+            "rise_race_code": "APC29092603",
+            "place": "1",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 4,
+            "meeting_date": "2026-09-29",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Sr2",
+          "saddlecloth_number": 9,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Sr2",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "9.00",
+          "forecast_odds": "9.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": true,
+          "silk": {
+            "description": "ORANGE, EMERALD GREEN YOKE & BRACES, 3 WHITE STARS, BLUE & WHITE STRIPED SLEEVES",
+            "silk_image": {
+              "filename": "12064.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN3NTYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--9929b1c1d9606271a154e9d9c9a6153d7b4c561c/12064.png"
+            }
+          },
+          "horse": {
+            "id": 4121,
+            "name": "Tilly Jayne",
+            "slug": "/tilly-jayne"
+          },
+          "trainer": {
+            "display_name": "Alyce Finnis",
+            "mobile_display_name": "A J Finnis",
+            "slug": "/alyce-finnis"
+          },
+          "driver": {
+            "display_name": "Taleah McMullen",
+            "mobile_display_name": "T J McMullen",
+            "slug": "/taleah-mcmullen"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "14152",
+            "horse_class": "NR76 (A71) B4"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP290926",
+            "rise_race_code": "APC29092603",
+            "place": "2",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 4,
+            "meeting_date": "2026-09-29",
+            "has_replay": true
+          },
+          "sectionals": null
+        }
+      ]
+    },
+    {
+      "rise_race_code": "APC06102605",
+      "race_number": 7,
+      "name": "Garrards Horse & Hound Pace",
+      "short_name": "Garrards Horse&Hound Pace",
+      "distance": 1660,
+      "start_type": "MS",
+      "bet_types": "3RD LEG QUADRELLA, FIRST 4, 2ND LEG DOUBLE, 2ND LEG TREBLE",
+      "scheduled_start_time": "2026-10-06T17:22:00+11:00",
+      "race_class": "3YO and older. NR 46 to 51. PBD/NR/L4$. Pacers",
+      "race_notes": "DC. MC.\r\nA 1% deduction for Equine Welfare will be applied to all prizemoney prior to distribution.",
+      "replay_video": null,
+      "finish_photo": null,
+      "has_stewards_replay": false,
+      "stewards_replay_videos": [],
+      "track_condition": null,
+      "tips": "",
+      "race_status": "fields_drawn",
+      "result_places": null,
+      "has_replay": false,
+      "total_prize_money": 9000,
+      "gross_time": null,
+      "mile_rate": null,
+      "lead_time": null,
+      "quarters": null,
+      "cumulative_mile": null,
+      "margins": null,
+      "track_record": {
+        "rise_meeting_code": "AP220325",
+        "rise_race_code": "APM22032501",
+        "horse_name": "Leap To Fame",
+        "horse_slug": "/leap-to-fame",
+        "race_number": 6,
+        "race_date": "2025-03-22",
+        "meeting_day_night_twilight": "N",
+        "time_mile_rate": "1:48.6",
+        "start_type": "MS",
+        "distance": 1660
+      },
+      "prizemoney_distribution": {
+        "1": "5481.0",
+        "2": "1566.0",
+        "3": "783.0",
+        "4": "522.0",
+        "5": "348.0",
+        "6": "60.0",
+        "7": "60.0",
+        "8": "60.0",
+        "9": "60.0",
+        "10": "60.0"
+      },
+      "runners": [
+        {
+          "barrier": "Fr1",
+          "saddlecloth_number": 1,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr1",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "8.00",
+          "forecast_odds": "3.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "RED, WHITE BRACES & YOKE, RED STARS",
+            "silk_image": {
+              "filename": "54.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMW9TYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--eea85583ff47eee26626b710a37853f926b0de28/54.png"
+            }
+          },
+          "horse": {
+            "id": 2931,
+            "name": "Studleigh Anne",
+            "slug": "/studleigh-anne"
+          },
+          "trainer": {
+            "display_name": "John McMullen",
+            "mobile_display_name": "J N McMullen",
+            "slug": "/john-mcmullen"
+          },
+          "driver": {
+            "display_name": "Taleah McMullen",
+            "mobile_display_name": "T J McMullen",
+            "slug": "/taleah-mcmullen"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "49551",
+            "horse_class": "NR50 (A46)"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP280926",
+            "rise_race_code": "APB28092603",
+            "place": "1",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 7,
+            "meeting_date": "2026-09-28",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Fr2",
+          "saddlecloth_number": 2,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr2",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "13.00",
+          "forecast_odds": "11.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "BLACK, GOLD QUARTERS",
+            "silk_image": {
+              "filename": "493.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNUVTYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7a2df6435e4dfbafcc7be78ba03d108aa7a2ac91/493.png"
+            }
+          },
+          "horse": {
+            "id": 5156,
+            "name": "She Maybe Bettor",
+            "slug": "/she-maybe-bettor"
+          },
+          "trainer": {
+            "display_name": "Richard Hutchinson",
+            "mobile_display_name": "R P Hutchinson",
+            "slug": "/richard-hutchinson"
+          },
+          "driver": {
+            "display_name": "Adam Richardson",
+            "mobile_display_name": "A P Richardson",
+            "slug": "/adam-richardson"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "92211",
+            "horse_class": "NR50 (A46)"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP290926",
+            "rise_race_code": "APC29092606",
+            "place": "1",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 6,
+            "meeting_date": "2026-09-29",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Fr3",
+          "saddlecloth_number": 3,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr3",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "126.00",
+          "forecast_odds": "31.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "BLACK, PINK V'S, BLACK SLEEVES, PINK HEARTS",
+            "silk_image": {
+              "filename": "11559.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN0FTYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b6e306f877f8477b169b8fd075b0c8202e216bc7/11559.png"
+            }
+          },
+          "horse": {
+            "id": 5587,
+            "name": "Gidup Captain",
+            "slug": "/gidup-captain"
+          },
+          "trainer": {
+            "display_name": "Bryse McElhinney",
+            "mobile_display_name": "B D McElhinney",
+            "slug": "/bryse-mcelhinney"
+          },
+          "driver": {
+            "display_name": "Bryse McElhinney",
+            "mobile_display_name": "B D McElhinney",
+            "slug": "/bryse-mcelhinney"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "53915",
+            "horse_class": "NR47"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP280926",
+            "rise_race_code": "APB28092604",
+            "place": "5",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 6,
+            "meeting_date": "2026-09-28",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Fr4",
+          "saddlecloth_number": 4,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr4",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "3.80",
+          "forecast_odds": "12.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "BLUE, PURPLE BRACES, WHITE YOKE WITH PURPLE STARS, WHITE SLEEVES, PURPLE STARS",
+            "silk_image": {
+              "filename": "8.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMllTYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--02433486c61c05d6e31cf01d3fbf64d0df8a8fb9/8.png"
+            }
+          },
+          "horse": {
+            "id": 438395,
+            "name": "Whata Good Feeling",
+            "slug": "/whata-good-feeling"
+          },
+          "trainer": {
+            "display_name": "John McMullen",
+            "mobile_display_name": "J N McMullen",
+            "slug": "/john-mcmullen"
+          },
+          "driver": {
+            "display_name": "Pete McMullen",
+            "mobile_display_name": "P J McMullen",
+            "slug": "/pete-mcmullen"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "85581",
+            "horse_class": "NR54 (A49)"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP280926",
+            "rise_race_code": "APB28092604",
+            "place": "1",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 6,
+            "meeting_date": "2026-09-28",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Fr5",
+          "saddlecloth_number": 5,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr5",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "2.65",
+          "forecast_odds": "7.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "BLUE, WHITE STRIPED SLEEVES",
+            "silk_image": {
+              "filename": "59.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMEVTYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--6569ceba74628f4d9283084c3b0bb8d27722774a/59.png"
+            }
+          },
+          "horse": {
+            "id": 441545,
+            "name": "Atula NZ",
+            "slug": "/atula-nz"
+          },
+          "trainer": {
+            "display_name": "Wayne Graham",
+            "mobile_display_name": "W T Graham",
+            "slug": "/wayne-graham"
+          },
+          "driver": {
+            "display_name": "Shane Graham",
+            "mobile_display_name": "S R Graham",
+            "slug": "/shane-graham"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "00s61",
+            "horse_class": "NR54 (A49)"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP250926",
+            "rise_race_code": "APC25092607",
+            "place": "1",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 1,
+            "meeting_date": "2026-09-25",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Fr6",
+          "saddlecloth_number": 6,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr6",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "12.00",
+          "forecast_odds": "6.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "ROYAL BLUE, WHITE BRACES & ROYAL BLUE STARS, RED COLLAR & WAISTBAND, ROYAL BLUE SLEEVES, RED PIPING",
+            "silk_image": {
+              "filename": "1049.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeTBYYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7fc5dc168678efd6793b415e91281196cd383b1a/1049.png"
+            }
+          },
+          "horse": {
+            "id": 3736,
+            "name": "Shez A Punter",
+            "slug": "/shez-a-punter"
+          },
+          "trainer": {
+            "display_name": "Alanah Richardson",
+            "mobile_display_name": "A K Richardson",
+            "slug": "/alanah-richardson"
+          },
+          "driver": {
+            "display_name": "Alanah Richardson",
+            "mobile_display_name": "A K Richardson",
+            "slug": "/alanah-richardson"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "96223",
+            "horse_class": "NR56 (A51)"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "RE300926",
+            "rise_race_code": "REC30092612",
+            "place": "3",
+            "desktop_display_name": "Redcliffe",
+            "mobile_display_name": "Redcliffe",
+            "track_slug": "/redcliffe",
+            "day_night_twilight": "N",
+            "race_number": 2,
+            "meeting_date": "2026-09-30",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Scr",
+          "saddlecloth_number": 7,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": true,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": "(C,5)",
+          "emergency_number": null,
+          "od_status": "ODM",
+          "formatted_handicap": "Scr",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": null,
+          "forecast_odds": "11.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "RED, BLACK STARS & STRIPES",
+            "silk_image": {
+              "filename": "181.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBLzRTYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5e0bf48b9cab58e61c34c2baead959f5918396ec/181.png"
+            }
+          },
+          "horse": {
+            "id": 440396,
+            "name": "Mythical Dragon",
+            "slug": "/mythical-dragon"
+          },
+          "trainer": {
+            "display_name": "Shannon Price",
+            "mobile_display_name": "S M Price",
+            "slug": "/shannon-price"
+          },
+          "driver": {
+            "display_name": "Mitch Cox",
+            "mobile_display_name": "M B Cox",
+            "slug": "/mitchell-cox"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "133s5",
+            "horse_class": "NR52 (A47)"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP250926",
+            "rise_race_code": "APC25092607",
+            "place": "5",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 1,
+            "meeting_date": "2026-09-25",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Sr1",
+          "saddlecloth_number": 8,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Sr1",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "15.00",
+          "forecast_odds": "4.80",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": true,
+          "silk": {
+            "description": "PURPLE, RED YOKE & BRACES, PURPLE STARS",
+            "silk_image": {
+              "filename": "175.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMThTYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--bca14ea34f8efae82063ee88ff86b476c6a28aee/175.png"
+            }
+          },
+          "horse": {
+            "id": 440080,
+            "name": "Iam Hugo",
+            "slug": "/iam-hugo"
+          },
+          "trainer": {
+            "display_name": "Gemma Hewitt",
+            "mobile_display_name": "G C Hewitt",
+            "slug": "/gemma-hewitt"
+          },
+          "driver": {
+            "display_name": "Brendan Barnes",
+            "mobile_display_name": "B W Barnes",
+            "slug": "/brendan-barnes"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "16389",
+            "horse_class": "NR51"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "RE170926",
+            "rise_race_code": "REC17092603",
+            "place": "9",
+            "desktop_display_name": "Redcliffe",
+            "mobile_display_name": "Redcliffe",
+            "track_slug": "/redcliffe",
+            "day_night_twilight": "D",
+            "race_number": 6,
+            "meeting_date": "2026-09-17",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Sr2",
+          "saddlecloth_number": 9,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": "(C,5)",
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Sr2",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "21.00",
+          "forecast_odds": "11.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": true,
+          "silk": {
+            "description": "WHITE, BLUE YOKE WITH WHITE STRIPES, BLUE STARS, BLACK SLEEVES",
+            "silk_image": {
+              "filename": "268.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBek1UYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a0653ae85d861316e3ab913a58b31bf24f91400c/268.png"
+            }
+          },
+          "horse": {
+            "id": 2589,
+            "name": "My Ultimate Victor",
+            "slug": "/my-ultimate-victor"
+          },
+          "trainer": {
+            "display_name": "Nathan Rothwell",
+            "mobile_display_name": "N T Rothwell",
+            "slug": "/nathan-rothwell"
+          },
+          "driver": {
+            "display_name": "Will Rothwell",
+            "mobile_display_name": "W T Rothwell",
+            "slug": "/will-rothwell"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "88522",
+            "horse_class": "NR56 (A51)"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP280926",
+            "rise_race_code": "APB28092602",
+            "place": "2",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 3,
+            "meeting_date": "2026-09-28",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Sr3",
+          "saddlecloth_number": 10,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": "(C,3)",
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Sr3",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "3.00",
+          "forecast_odds": "6.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": true,
+          "silk": {
+            "description": "ORANGE, EMERALD GREEN YOKE & BRACES, 3 WHITE STARS, BLUE & WHITE STRIPED SLEEVES",
+            "silk_image": {
+              "filename": "12064.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN3NTYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--9929b1c1d9606271a154e9d9c9a6153d7b4c561c/12064.png"
+            }
+          },
+          "horse": {
+            "id": 434820,
+            "name": "Ubetonred",
+            "slug": "/ubetonred"
+          },
+          "trainer": {
+            "display_name": "Alyce Finnis",
+            "mobile_display_name": "A J Finnis",
+            "slug": "/alyce-finnis"
+          },
+          "driver": {
+            "display_name": "Tom Callaghan",
+            "mobile_display_name": "T M Callaghan",
+            "slug": "/tom-callaghan"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "27318",
+            "horse_class": "NR54 (A51)"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP290926",
+            "rise_race_code": "APC29092605",
+            "place": "8",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 7,
+            "meeting_date": "2026-09-29",
+            "has_replay": true
+          },
+          "sectionals": null
+        }
+      ]
+    },
+    {
+      "rise_race_code": "APC06102604",
+      "race_number": 8,
+      "name": "More from Tote with Ladbrokes Pace",
+      "short_name": "Ladbrokes Tote Pace",
+      "distance": 2138,
+      "start_type": "MS",
+      "bet_types": "4TH LEG QUADRELLA, FIRST 4, 3RD LEG TREBLE",
+      "scheduled_start_time": "2026-10-06T17:57:00+11:00",
+      "race_class": "3YO and older. NR 52 to 57. RBD. Pacers",
+      "race_notes": "DC. MC.\r\nA 1% deduction for Equine Welfare will be applied to all prizemoney prior to distribution.",
+      "replay_video": null,
+      "finish_photo": null,
+      "has_stewards_replay": false,
+      "stewards_replay_videos": [],
+      "track_condition": null,
+      "tips": "",
+      "race_status": "fields_drawn",
+      "result_places": null,
+      "has_replay": false,
+      "total_prize_money": 9120,
+      "gross_time": null,
+      "mile_rate": null,
+      "lead_time": null,
+      "quarters": null,
+      "cumulative_mile": null,
+      "margins": null,
+      "track_record": {
+        "rise_meeting_code": "AP040726",
+        "rise_race_code": "APM04072603",
+        "horse_name": "Captains Mistress NZ",
+        "horse_slug": "/captains-mistress-nz-441003",
+        "race_number": 8,
+        "race_date": "2026-07-04",
+        "meeting_day_night_twilight": "N",
+        "time_mile_rate": "1:50.3",
+        "start_type": "MS",
+        "distance": 2138
+      },
+      "prizemoney_distribution": {
+        "1": "5481.0",
+        "2": "1566.0",
+        "3": "783.0",
+        "4": "522.0",
+        "5": "348.0",
+        "6": "60.0",
+        "7": "60.0",
+        "8": "60.0",
+        "9": "60.0",
+        "10": "60.0",
+        "11": "60.0",
+        "12": "60.0"
+      },
+      "runners": [
+        {
+          "barrier": "Fr1",
+          "saddlecloth_number": 1,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr1",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "16.00",
+          "forecast_odds": "16.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "CERISE, WHITE BRACES & YOKE/3 CERISE STARS/NAVY BLUE COLLAR/WAIST, WHITE SLEEVES/NAVY BLUE SEAMS",
+            "silk_image": {
+              "filename": "381.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMzRTYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b4287a2eea2f2a48cfd6e7b916e0fac676b24809/381.png"
+            }
+          },
+          "horse": {
+            "id": 1361,
+            "name": "My Ultimate Carter",
+            "slug": "/my-ultimate-carter"
+          },
+          "trainer": {
+            "display_name": "Jonah Hutchinson",
+            "mobile_display_name": "J J Hutchinson",
+            "slug": "/jonah-hutchinson"
+          },
+          "driver": {
+            "display_name": "Paige Bevan",
+            "mobile_display_name": "P M Bevan",
+            "slug": "/paige-bevan"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "96286",
+            "horse_class": "NR55 B5"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "RE300926",
+            "rise_race_code": "REC30092602",
+            "place": "6",
+            "desktop_display_name": "Redcliffe",
+            "mobile_display_name": "Redcliffe",
+            "track_slug": "/redcliffe",
+            "day_night_twilight": "N",
+            "race_number": 1,
+            "meeting_date": "2026-09-30",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Fr2",
+          "saddlecloth_number": 2,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr2",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "18.00",
+          "forecast_odds": "21.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "GREEN, YELLOW SLEEVES",
+            "silk_image": {
+              "filename": "11.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeXNUYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f7015eab6b508ca42616662fd1fa5fb19ca5ce43/11.png"
+            }
+          },
+          "horse": {
+            "id": 10956,
+            "name": "Move Heavennearth",
+            "slug": "/move-heavennearth"
+          },
+          "trainer": {
+            "display_name": "Lola Weidemann",
+            "mobile_display_name": "L J Weidemann",
+            "slug": "/lola-weidemann"
+          },
+          "driver": {
+            "display_name": "Lola Weidemann",
+            "mobile_display_name": "L J Weidemann",
+            "slug": "/lola-weidemann"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "53335",
+            "horse_class": "NR57 (A52)"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP031026",
+            "rise_race_code": "APM03102613",
+            "place": "5",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "N",
+            "race_number": 5,
+            "meeting_date": "2026-10-03",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Fr3",
+          "saddlecloth_number": 3,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr3",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "21.00",
+          "forecast_odds": "12.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "BLACK, BLUE YOKE, BRACES & BAND, BLACK HORSESHOES, WHITE SLEEVES, BLACK H AND CUFFS",
+            "silk_image": {
+              "filename": "189.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeTRYYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--82e83696bcc2abb82587966504691953bf176da1/189.png"
+            }
+          },
+          "horse": {
+            "id": 137491,
+            "name": "My Ultimate Mario NZ",
+            "slug": "/my-ultimate-mario-nz"
+          },
+          "trainer": {
+            "display_name": "Jonah Hutchinson",
+            "mobile_display_name": "J J Hutchinson",
+            "slug": "/jonah-hutchinson"
+          },
+          "driver": {
+            "display_name": "Jonah Hutchinson",
+            "mobile_display_name": "J J Hutchinson",
+            "slug": "/jonah-hutchinson"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "69245",
+            "horse_class": "NR54"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP290926",
+            "rise_race_code": "APC29092605",
+            "place": "5",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 7,
+            "meeting_date": "2026-09-29",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Fr4",
+          "saddlecloth_number": 4,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr4",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "3.20",
+          "forecast_odds": "3.20",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "PURPLE, GREEN STRIPES",
+            "silk_image": {
+              "filename": "477.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMUVTYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c5fbbbfc21d6e86611581c476c89c00b57ea8f08/477.png"
+            }
+          },
+          "horse": {
+            "id": 60561,
+            "name": "Racana NZ",
+            "slug": "/racana-nz"
+          },
+          "trainer": {
+            "display_name": "John Stariha",
+            "mobile_display_name": "J Stariha",
+            "slug": "/john-stariha"
+          },
+          "driver": {
+            "display_name": "Brendan Barnes",
+            "mobile_display_name": "B W Barnes",
+            "slug": "/brendan-barnes"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "14724",
+            "horse_class": "NR55 (A52) B5"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP290926",
+            "rise_race_code": "APC29092605",
+            "place": "4",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 7,
+            "meeting_date": "2026-09-29",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Fr5",
+          "saddlecloth_number": 5,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr5",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "26.00",
+          "forecast_odds": "11.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "BLACK, YELLOW YOKE, BRACES & BAND, BLACK HORSESHOES, YELLOW SLEEVES",
+            "silk_image": {
+              "filename": "1028.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNG9TYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e5869c4895b388314fba35c8e66453daeb3bf927/1028.png"
+            }
+          },
+          "horse": {
+            "id": 437038,
+            "name": "Boston Bronski",
+            "slug": "/boston-bronski"
+          },
+          "trainer": {
+            "display_name": "Matt Elkins",
+            "mobile_display_name": "M J Elkins",
+            "slug": "/matt-elkins"
+          },
+          "driver": {
+            "display_name": "Matt Elkins",
+            "mobile_display_name": "M J Elkins",
+            "slug": "/matt-elkins"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "59s72",
+            "horse_class": "NR56 (A52)"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP280926",
+            "rise_race_code": "APB28092603",
+            "place": "2",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 7,
+            "meeting_date": "2026-09-28",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Fr6",
+          "saddlecloth_number": 6,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr6",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "51.00",
+          "forecast_odds": "41.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "BLACK, WHITE FLEUR DE LIS, RED SLEEVES WITH WHITE STRIPE AND CUFFS",
+            "silk_image": {
+              "filename": "519.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOWNTYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--26abf80a1fddc76056ef6c974ebe22efadba3c49/519.png"
+            }
+          },
+          "horse": {
+            "id": 482,
+            "name": "Time To Torque",
+            "slug": "/time-to-torque"
+          },
+          "trainer": {
+            "display_name": "Chris Watson",
+            "mobile_display_name": "C M Watson",
+            "slug": "/chris-watson"
+          },
+          "driver": {
+            "display_name": "Adam Richardson",
+            "mobile_display_name": "A P Richardson",
+            "slug": "/adam-richardson"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "59950",
+            "horse_class": "NR58 (A53)"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP260926",
+            "rise_race_code": "APM26092608",
+            "place": "10",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "N",
+            "race_number": 8,
+            "meeting_date": "2026-09-26",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Fr7",
+          "saddlecloth_number": 7,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Fr7",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "6.00",
+          "forecast_odds": "8.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": false,
+          "silk": {
+            "description": "WHITE, RED BRACES, BAND & YOKE WITH WHITE STARS, RED SLEEVES, WHITE STARS",
+            "silk_image": {
+              "filename": "244.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM2dTYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5678c3d828425a50f1037bb57e11a927568e0364/244.png"
+            }
+          },
+          "horse": {
+            "id": 436616,
+            "name": "Keayang Kauna",
+            "slug": "/keayang-kauna"
+          },
+          "trainer": {
+            "display_name": "Matt Elkins",
+            "mobile_display_name": "M J Elkins",
+            "slug": "/matt-elkins"
+          },
+          "driver": {
+            "display_name": "Narissa Elkins",
+            "mobile_display_name": "N J Elkins",
+            "slug": "/narissa-mcmullen"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "28155",
+            "horse_class": "NR62 (A57)"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "PC110826",
+            "rise_race_code": "PCC11082611",
+            "place": "5",
+            "desktop_display_name": "Menangle",
+            "mobile_display_name": "Menangle",
+            "track_slug": "/tabcorp-pk-menangle",
+            "day_night_twilight": "D",
+            "race_number": 6,
+            "meeting_date": "2026-08-11",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Sr1",
+          "saddlecloth_number": 8,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": "(C)",
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Sr1",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "15.00",
+          "forecast_odds": "11.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": true,
+          "silk": {
+            "description": "BLACK, RED SEAMS, BLACK SLEEVES, RED JC & STRIPE",
+            "silk_image": {
+              "filename": "11830.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeTBUYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--49ea836c4ac4b108098edae59297a1b116f050f8/11830.png"
+            }
+          },
+          "horse": {
+            "id": 1470,
+            "name": "Goodolboysandbeer",
+            "slug": "/goodolboysandbeer"
+          },
+          "trainer": {
+            "display_name": "Jack Chapple",
+            "mobile_display_name": "J J Chapple",
+            "slug": "/jack-chapple"
+          },
+          "driver": {
+            "display_name": "Jack Chapple",
+            "mobile_display_name": "J J Chapple",
+            "slug": "/jack-chapple"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "31215",
+            "horse_class": "NR53"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP260926",
+            "rise_race_code": "APM26092614",
+            "place": "5",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "N",
+            "race_number": 6,
+            "meeting_date": "2026-09-26",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Sr2",
+          "saddlecloth_number": 9,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": null,
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Sr2",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "10.00",
+          "forecast_odds": "12.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": true,
+          "silk": {
+            "description": "BLUE, PURPLE BRACES, WHITE YOKE WITH PURPLE STARS, WHITE SLEEVES, PURPLE STARS",
+            "silk_image": {
+              "filename": "8.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMllTYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--02433486c61c05d6e31cf01d3fbf64d0df8a8fb9/8.png"
+            }
+          },
+          "horse": {
+            "id": 6474,
+            "name": "Next To Me NZ",
+            "slug": "/next-to-me-nz"
+          },
+          "trainer": {
+            "display_name": "Anthony Gorman",
+            "mobile_display_name": "A D Gorman",
+            "slug": "/anthony-gorman"
+          },
+          "driver": {
+            "display_name": "Pete McMullen",
+            "mobile_display_name": "P J McMullen",
+            "slug": "/pete-mcmullen"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "34062",
+            "horse_class": "NR55"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP031026",
+            "rise_race_code": "APM03102613",
+            "place": "2",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "N",
+            "race_number": 5,
+            "meeting_date": "2026-10-03",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Scr",
+          "saddlecloth_number": 10,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": true,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": "(C)",
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Scr",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": null,
+          "forecast_odds": "8.50",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": true,
+          "silk": {
+            "description": "BLACK, MAROON BRACES & YOKE WITH BLACK DIAMONDS, WHITE PIPING, BLACK SLEEVES",
+            "silk_image": {
+              "filename": "11803.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd0lUYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ced55fedf41de05ccb6386782a36d3482096c761/11803.png"
+            }
+          },
+          "horse": {
+            "id": 370,
+            "name": "Bart Bentley",
+            "slug": "/bart-bentley"
+          },
+          "trainer": {
+            "display_name": "Mitch Cox",
+            "mobile_display_name": "M B Cox",
+            "slug": "/mitchell-cox"
+          },
+          "driver": {
+            "display_name": "Mitch Cox",
+            "mobile_display_name": "M B Cox",
+            "slug": "/mitchell-cox"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "15710",
+            "horse_class": "NR57"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP290926",
+            "rise_race_code": "APC29092606",
+            "place": "12",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "D",
+            "race_number": 6,
+            "meeting_date": "2026-09-29",
+            "has_replay": true
+          },
+          "sectionals": null
+        },
+        {
+          "barrier": "Sr3",
+          "saddlecloth_number": 11,
+          "margin_metres": null,
+          "margin_lengths": null,
+          "is_scratching": false,
+          "is_late_scratching": false,
+          "starting_price": null,
+          "stewards_comments_short": null,
+          "stewards_comments_long": null,
+          "driver_concession_flags": "(C,5)",
+          "emergency_number": null,
+          "od_status": null,
+          "formatted_handicap": "Sr3",
+          "place": null,
+          "past_the_post_place": null,
+          "prizemoney": null,
+          "woo_average_odds": "1.88",
+          "forecast_odds": "3.00",
+          "claiming_price": null,
+          "non_runner_text": "",
+          "starting_favourite": false,
+          "is_second_row": true,
+          "silk": {
+            "description": "BLUE, BLACK BRACES, BLUE YOKE, WHITE DIAMONDS, BLUE SLEEVES, BLACK CUFFS",
+            "silk_image": {
+              "filename": "11784.png",
+              "path": "/onspace/media/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN2dTYWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--06f4f6a66183d5ee3b3c5ac19f50c0c4a75ef42a/11784.png"
+            }
+          },
+          "horse": {
+            "id": 1724,
+            "name": "Cosmic Flyer",
+            "slug": "/cosmic-flyer"
+          },
+          "trainer": {
+            "display_name": "Anthony Gorman",
+            "mobile_display_name": "A D Gorman",
+            "slug": "/anthony-gorman"
+          },
+          "driver": {
+            "display_name": "Will Rothwell",
+            "mobile_display_name": "W T Rothwell",
+            "slug": "/will-rothwell"
+          },
+          "stats_at_race_time": {
+            "last_five_starts_form": "35845",
+            "horse_class": "NR62 (A57) B5"
+          },
+          "other_engagements": [],
+          "last_run": {
+            "rise_meeting_code": "AP031026",
+            "rise_race_code": "APM03102601",
+            "place": "5",
+            "desktop_display_name": "Albion Park",
+            "mobile_display_name": "Albion Park",
+            "track_slug": "/albion-park",
+            "day_night_twilight": "N",
+            "race_number": 4,
+            "meeting_date": "2026-10-03",
+            "has_replay": true
+          },
+          "sectionals": null
+        }
+      ]
+    }
+  ]
+}

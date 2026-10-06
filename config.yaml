@@ -1,0 +1,114 @@
+# thedogs.com.au scraper - runtime settings.
+# Anything here overrides the defaults in dogs_scraper/config.py.
+# CLI flags override this file.
+
+# --- source ---------------------------------------------------------------
+base_url: "https://www.thedogs.com.au"
+
+# auto = use embedded JSON if the page exposes it, else parse HTML
+# json = embedded JSON only | html = HTML selectors only
+extraction_mode: auto
+
+# fetcher = plain HTTP with TLS impersonation (fast, start here)
+# stealthy = real browser + anti-bot bypass (use only if you start getting blocked)
+# dynamic = plain Playwright browser
+fetcher: fetcher
+impersonate: chrome
+
+# --- politeness -----------------------------------------------------------
+request_timeout: 30
+retries: 3
+retry_delay: 1.0
+delay_between_requests: 1.0
+max_concurrency: 4
+
+# --- scope ----------------------------------------------------------------
+# Leave empty for everything. Examples:
+#   states: [NSW, VIC]
+#   tracks: [goulburn, wagga, richmond]
+states: []
+tracks: []
+include_trials: false
+
+# --- output ---------------------------------------------------------------
+write_json: true
+write_csv: true
+pretty_json: true
+use_cache: true
+cache_ttl_minutes: 10
+
+# --- housekeeping ---------------------------------------------------------
+# Old results and cached pages are swept after each run. Only files this
+# project writes are touched - thedogs_*, rbhq_*, discrepancies_* and the
+# hashed page cache. Set either to -1 to turn that sweep off.
+# Check before trusting it:  python run.py --prune-dry-run
+output_retention_days: 14       # racing days of results to keep; 0 = today only
+cache_retention_hours: 24       # cached pages are only read for 10 minutes
+
+# --- diagnostics ----------------------------------------------------------
+log_level: INFO
+save_raw_html: false
+
+# --- RBHQ feed ------------------------------------------------------------
+# POST https://api.racebookhq.com/api/host/events/full
+#   { "dates": ["2026-09-22T00:00:00"], "raceTypes": ["G"] }
+#
+# raceTypes: G greyhounds, R thoroughbreds, H harness. Only G is requested -
+# the other codes have nothing on thedogs.com.au to compare against, and asking
+# for them makes the response several times larger for no gain.
+#
+# Check what will be sent, without sending it:
+#     python -m rbhq_scraper --show-endpoint
+#
+# If the endpoint needs a key it is NEVER stored here - api_key_env names an
+# environment variable, read at call time:
+#     setx RBHQ_API_KEY "..."
+rbhq:
+  base_url: "https://api.racebookhq.com"
+  path: "/api/host/events/full"
+  method: POST
+
+  # Request body
+  date_field: "dates"
+  date_format: "%Y-%m-%dT00:00:00"
+  date_as_list: true
+  race_types_field: "raceTypes"
+  race_types: [G]
+  body: {}                        # any other fixed body fields
+
+  headers: {}
+  params: {}                      # query string, if the endpoint ever needs one
+
+  # Auth. Leave RBHQ_API_KEY unset if the endpoint does not need one.
+  auth_header: "Authorization"
+  auth_prefix: "Bearer "
+  auth_param: null
+  api_key_env: "RBHQ_API_KEY"
+
+  # Transport. No caching: a stale card would defeat the whole comparison.
+  timeout: 30
+  retries: 3
+  retry_delay: 1.0
+  impersonate: chrome
+  verify: true
+
+# --- harness.org.au scraper -------------------------------------------------
+# python -m harness_scraper scrape --date 2026-10-06
+# Pages are a JavaScript app behind Cloudflare, so a real browser is used and
+# the page's own api.harness.org.au responses are captured. No key is needed.
+harness:
+  base_url: "https://www.harness.org.au"
+  fetcher: stealthy               # stealthy | dynamic
+  headless: true                  # --headful to watch it
+  solve_cloudflare: true
+  # Browser UA plus a suffix saying who we are. Set to null if it gets blocked.
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 RacebookHQ-FieldsCheck/1.0"
+  request_timeout: 60
+  retries: 3
+  retry_delay: 2.0                # backoff: delay * attempt
+  delay_min: 1.0                  # random pause between pages
+  delay_max: 3.0
+  max_concurrency: 1              # one browser context; hard cap is 2
+  states: []                      # e.g. [NSW, VIC]
+  include_trials: false
+  data_dir: data                  # results -> data/harness/{date}/, raw JSON -> data/raw/{date}/
